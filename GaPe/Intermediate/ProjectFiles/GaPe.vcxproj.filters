@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GaPe.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C4CDF84C-C3B0-4228-BCF8-98C0BF1BCDCD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PointCloud.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PointCloudEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0047415D-1A3B-4E6E-937D-99356CC56445}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{68EAC5B8-5A2A-4141-9490-768ABF6D450E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{3A3EFA5E-787E-4532-8700-A3727399BF02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\NWDraco">
+      <UniqueIdentifier>{24E2B253-3571-4553-A241-E97B9FC6C3CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\NWDraco\Source">
+      <UniqueIdentifier>{DB752C9B-EC10-4EC5-94DA-CE34B9DB65CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\NWDraco\Source\NWDraco">
+      <UniqueIdentifier>{03172C91-C9A9-4670-A99C-9FF30389AA60}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NWDraco\Source\NWDraco\NWDraco.Build.cs">
+      <Filter>Plugins\NWDraco\Source\NWDraco</Filter>
+    </None>
+    <Filter Include="Plugins\NWDraco\Source\NWDraco\Private">
+      <UniqueIdentifier>{6982D0C0-07A4-41B5-A87E-10DA157BF040}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\NWDraco\Source\NWDraco\Private\NWDraco.cpp">
+      <Filter>Plugins\NWDraco\Source\NWDraco\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\NWDraco\Source\NWDraco\Public">
+      <UniqueIdentifier>{31FF4C4E-35D3-4BB4-86F0-6D863ADB7778}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\NWDraco\Source\NWDraco\Public\NWDraco.h">
+      <Filter>Plugins\NWDraco\Source\NWDraco\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\NWDraco\NWDraco.uplugin">
+      <Filter>Plugins\NWDraco</Filter>
+    </None>
+    <Filter Include="Plugins\NWDraco\Config">
+      <UniqueIdentifier>{32EADACA-ADA4-421A-9636-CC5C130E1C2A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NWDraco\Config\FilterPlugin.ini">
+      <Filter>Plugins\NWDraco\Config</Filter>
+    </None>
+    <Filter Include="Plugins\NWDraco\Resources">
+      <UniqueIdentifier>{FEEE1264-B8EB-4C88-B3C8-21054B4FD485}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\NWDraco\Resources\Icon128.png">
+      <Filter>Plugins\NWDraco\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples">
+      <UniqueIdentifier>{F48E7365-0DEA-44D9-8929-E845AC0F6981}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UXToolsExamples\UXToolsExamples.uplugin">
+      <Filter>Plugins\UXToolsExamples</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples\Resources">
+      <UniqueIdentifier>{FF9369CF-07F5-4C61-9465-CB1EB096E3A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UXToolsExamples\Resources\Icon128.png">
+      <Filter>Plugins\UXToolsExamples\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples\Shaders">
+      <UniqueIdentifier>{85948425-9773-43EB-8EF6-985C68095985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UXToolsExamples\Shaders\Public">
+      <UniqueIdentifier>{833D557C-101C-488E-81BF-EA612ADCCB57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UXToolsExamples\Shaders\Public\UxtTrackedSurfaceMesh.ush">
+      <Filter>Plugins\UXToolsExamples\Shaders\Public</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples\Source">
+      <UniqueIdentifier>{2F7D91F0-D62F-4672-9BC8-A16CAB4BA754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamples">
+      <UniqueIdentifier>{BF3BE41F-70A2-4681-8E90-2D6A01471E4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\UXToolsExamples.Build.cs">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamples\Private">
+      <UniqueIdentifier>{A5653C29-FE91-4CF5-92C3-DED9A3764EDD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\Private\UxtExamplesInfo.cpp">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\Private\UxtExamplesInfo.h">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\Private\UxtExamplesVersion.h">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\Private\UXToolsExamples.cpp">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamples\Public">
+      <UniqueIdentifier>{42FCA792-6F7F-40E2-8633-43F5B347E678}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamples\Public\UXToolsExamples.h">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamples\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamplesShaders">
+      <UniqueIdentifier>{41020E5D-3927-4D80-9DEF-97624C59173E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\UXToolsExamplesShaders.Build.cs">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamplesShaders</Filter>
+    </None>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Private">
+      <UniqueIdentifier>{4581BA79-991D-4DFF-8A27-BE40CFE5E1EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Private\UXToolsExamplesShaders.cpp">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Public">
+      <UniqueIdentifier>{1EF7981C-D498-48E1-BCB6-608A85BF2720}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Public\UXToolsExamplesShaders.h">
+      <Filter>Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\PointCloud">
+      <UniqueIdentifier>{504B14A2-9830-4DAF-B83A-717F615F03B2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PointCloud\AABox.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\AABox.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\Capture.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\Capture.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PointCloud\common.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\config.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\config.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\EyeActor.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\EyeActor.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\frame_buffer.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\frame_buffer.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\FrustumG.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\FrustumG.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\hmp.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\hmp.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\logger.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\logger.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\loggerActor.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\loggerActor.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\nativelib.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\nativelib.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PointCloud\packages.config">
+      <Filter>Source\PointCloud</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PointCloud\Plane.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\Plane.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PointCloud\PointCloud.Build.cs">
+      <Filter>Source\PointCloud</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PointCloud\PointCloud.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\PointCloud.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\PointCloudRenderer.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\PointCloudRenderer.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PointCloud\settings.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\tools.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\tools.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\Vec3.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\Vec3.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\VideoCommunication.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\VideoCommunication.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\videodata.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\videodata.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PointCloud\video_scheduler.cpp">
+      <Filter>Source\PointCloud</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PointCloud\video_scheduler.h">
+      <Filter>Source\PointCloud</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+Hello there, awesome person, who bought my props! Thank You for the purchase!
+I hope there will be no problems loading and managing this asset pack.
+If there still is something wrong, please, contact me.
+
+My email: Ieva.lickiene@gmail.com
+
+Have a nice experience! Eat well, sleep well and be nice to Your Mom! ;D 
+
+Best Regards,
+Ieva
+
+-----------------------------------------------------------------------------------------------------------------------
+
+The whole info about the asset pack is bellow.
+
+Framed Oil Painting Pack Vol.2 - is a second low poly asset pack of original hand painted landscape pictures framed in wooden or vintage metal frames.
+
+IMPORTANT! The paintings used in the pictures are painted by my grandmother in law, so don't be afraid of any copyright issues. 
+
+- Set contains 10 separate meshes.
+
+- Models are Game-Ready/VR ready.
+- Assets are low poly.
+- Models are polygonal (quads and tris).
+- For easy use objects are named logically (using English language).
+- Models are UV mapped and unwrapped (non-overlapping).
+- Assets are fully textured (PBR), 2048x2048 .png's.
+- Pack contains two different sets of textures - for wooden frames and vintage metal frames. 
+- 6 Materials.
+- 30 Textures.
+- Pack contains 20 Blueprints.
+- File Formats:
+.FBX
+
+
+- Polygons and Vertices-
+
+- Picture_11 -   368 polygons;   642 tris;   323 vertices.
+- Picture_12 -    94 polygons;   188 tris;    96 vertices.
+- Picture_13 -    62 polygons;   124 tris;    64 vertices.
+- Picture_14 -    62 polygons;   124 tris;    64 vertices.
+- Picture_15 - 1 775 polygons; 2 963 tris; 1 806 vertices.
+- Picture_16 -    82 polygons;   164 tris;    84 vertices.
+- Picture_17 -    82 polygons;   164 tris;    84 vertices.
+- Picture_18 -   196 polygons;   368 tris;   186 vertices.
+- Picture_19 -   302 polygons;   536 tris;   270 vertices.
+- Picture_20 -    66 polygons;   132 tris;    68 vertices.
+
+In total:      3 089 polygons; 5 405 tris; 3 045 vertices.
+
+
+PLEASE NOTE: If you need additional higher/lower resolution maps, contact Me! I will gladly provide them to You!
+
+Need more Oil Paintings? Check my Framed Oil Paintings Pack Vol.1 - https://goo.gl/xoEkHB
+
+P.S. Let me know if you need higher res textures, I'll provide them to you.
+
+Thanks and Best of Luck!
+
+-Ieva-

@@ -1,0 +1,166 @@
+G:\Spring2023\Theia_system\GaPe\Intermediate\Build\HoloLens\arm64\UE4\Shipping\PointCloud\Definitions.PointCloud.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\nativelib.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\vector
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\map
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\tuple
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xtree
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\algorithm
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\string
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xstring
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\cctype
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\tools.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\chrono
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_chrono.hpp
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\ratio
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\loggerActor.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\queue
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\deque
+G:\Spring2023\Theia_system\GaPe\Intermediate\Build\HoloLens\arm64\UE4\Inc\PointCloud\loggerActor.generated.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\frame_buffer.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\common.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\logger.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\math.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\vcruntime_startup.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\mutex
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\system_error
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_system_error_abi.hpp
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\cerrno
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\stdexcept
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xcall_once.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xerrc.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\condition_variable
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\VideoCommunication.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\settings.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\fcntl.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\PointCloudRenderer.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\CameraComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraCommon.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\TextureRenderTarget.generated.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraTypes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\UserDefinedStruct.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraTypes.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCore.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraCommon.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponentPool.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraComponentPool.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemInstance.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterInstance.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSet.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\VectorVM\Public\VectorVM.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraDataSet.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterHandle.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraModule.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraEmitterHandle.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitter.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScript.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraScriptBase.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\NiagaraShader\NiagaraScriptBase.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShared.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCompileHash.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\NiagaraCore\NiagaraCompileHash.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraDataInterfaceBase.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraMergeable.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\NiagaraCore\NiagaraMergeable.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\NiagaraCore\NiagaraDataInterfaceBase.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\NiagaraShader\NiagaraShared.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShader.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShaderType.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameters.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraParameters.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScriptExecutionParameterStore.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterface.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraDataInterface.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameterStore.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraParameterStore.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraScriptExecutionParameterStore.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptHighlight.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraScriptHighlight.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraScript.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraMessageDataBase.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraMessageDataBase.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\INiagaraMergeManager.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEffectType.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\InGamePerformanceTracker.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPlatformSet.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraPlatformSet.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraEffectType.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSetAccessor.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraBoundsCalculator.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRendererProperties.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraGPUSortInfo.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\GPUSortManager.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraGPUSortInfo.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraRendererProperties.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraEmitter.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptExecutionContext.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraSystem.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ParticleSystem.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterCollection.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraParameterCollection.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraUserRedirectionParameterStore.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraUserRedirectionParameterStore.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraSystem.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraDataInterfaceBindingInstance.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraVariant.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraVariant.generated.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\Emitter.generated.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\ParticleSystemComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraFunctionLibrary.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraFunctionLibrary.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterfaceTexture.h
+D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\HoloLens\arm64\UE4\Inc\Niagara\NiagaraDataInterfaceTexture.generated.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\videodata.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Build\HoloLens\arm64\UE4\Inc\PointCloud\PointCloudRenderer.generated.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\video_scheduler.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\hmp.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\FrustumG.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\Vec3.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\Plane.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\AABox.h
+G:\Spring2023\Theia_system\GaPe\Source\PointCloud\config.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\fstream
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\istream
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\ostream
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\ios
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocnum
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\cmath
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\iterator
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\streambuf
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\share.h
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocale
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xfacet
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocinfo
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_xlocinfo_types.hpp
+D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\locale.h

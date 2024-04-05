@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PointCloud-0023.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\AABox.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Capture.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\config.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\EyeActor.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\frame_buffer.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\FrustumG.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\hmp.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\logger.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\loggerActor.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\nativelib.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Plane.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloud.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloudRenderer.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\tools.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Vec3.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\VideoCommunication.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\videodata.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\video_scheduler.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Capture.gen.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\EyeActor.gen.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\loggerActor.gen.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloud.init.gen.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloudRenderer.gen.cpp.obj"
+"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Default.rc2.res"
+/OUT:"G:\Spring2023\Theia_system - Copy (2)\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud-0023.lib"
+/INCLUDE:IMPLEMENT_MODULE_PointCloud

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsExamples-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Module.UXToolsExamples.cpp.obj"
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Module.UXToolsExamples.gen.cpp.obj"
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Default.rc2.res"
+/OUT:"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsExamples

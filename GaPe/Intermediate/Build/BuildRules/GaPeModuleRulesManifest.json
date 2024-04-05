@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Source\\PointCloud\\PointCloud.Build.cs",
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Plugins\\NWDraco\\Source\\NWDraco\\NWDraco.Build.cs",
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Plugins\\UXToolsExamples\\Source\\UXToolsExamples\\UXToolsExamples.Build.cs",
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Plugins\\UXToolsExamples\\Source\\UXToolsExamplesShaders\\UXToolsExamplesShaders.Build.cs",
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Source\\PointCloud.Target.cs",
+		"H:\\Spring2023\\Theia_system_Mobisys_auto\\Theia_MobiSys2024_Client\\GaPe\\Source\\PointCloudEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

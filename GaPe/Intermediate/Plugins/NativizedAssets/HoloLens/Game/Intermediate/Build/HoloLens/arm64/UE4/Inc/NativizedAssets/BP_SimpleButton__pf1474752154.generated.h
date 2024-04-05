@@ -1,0 +1,128 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UUxtPressableButtonComponent;
+class UUxtPointerComponent;
+#ifdef NATIVIZEDASSETS_BP_SimpleButton__pf1474752154_generated_h
+#error "BP_SimpleButton__pf1474752154.generated.h already included, missing '#pragma once' in BP_SimpleButton__pf1474752154.h"
+#endif
+#define NATIVIZEDASSETS_BP_SimpleButton__pf1474752154_generated_h
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_SPARSE_DATA
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__UpdateButtonColor__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_0_UxtButtonPressedDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_1_UxtButtonReleasedDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_2_UxtButtonBeginFocusDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_3_UxtButtonEndFocusDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_4_UxtButtonEnabledDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_5_UxtButtonDisabledDelegate__DelegateSignature__pf);
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__UpdateButtonColor__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_0_UxtButtonPressedDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_1_UxtButtonReleasedDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_2_UxtButtonBeginFocusDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_3_UxtButtonEndFocusDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_4_UxtButtonEnabledDelegate__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__ButtonComponent_K2Node_ComponentBoundEvent_5_UxtButtonDisabledDelegate__DelegateSignature__pf);
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_EVENT_PARMS
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesABP_SimpleButton_C__pf1474752154(); \
+	friend struct Z_Construct_UClass_ABP_SimpleButton_C__pf1474752154_Statics; \
+public: \
+	DECLARE_CLASS(ABP_SimpleButton_C__pf1474752154, AUxtBasePressableButtonActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/UXTools/Buttons/Simple/BP_SimpleButton"), NO_API) \
+	DECLARE_SERIALIZER(ABP_SimpleButton_C__pf1474752154)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_INCLASS \
+private: \
+	static void StaticRegisterNativesABP_SimpleButton_C__pf1474752154(); \
+	friend struct Z_Construct_UClass_ABP_SimpleButton_C__pf1474752154_Statics; \
+public: \
+	DECLARE_CLASS(ABP_SimpleButton_C__pf1474752154, AUxtBasePressableButtonActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/UXTools/Buttons/Simple/BP_SimpleButton"), NO_API) \
+	DECLARE_SERIALIZER(ABP_SimpleButton_C__pf1474752154)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ABP_SimpleButton_C__pf1474752154(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_SimpleButton_C__pf1474752154) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_SimpleButton_C__pf1474752154); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_SimpleButton_C__pf1474752154); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_SimpleButton_C__pf1474752154(ABP_SimpleButton_C__pf1474752154&&); \
+	NO_API ABP_SimpleButton_C__pf1474752154(const ABP_SimpleButton_C__pf1474752154&); \
+public:
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_SimpleButton_C__pf1474752154(ABP_SimpleButton_C__pf1474752154&&); \
+	NO_API ABP_SimpleButton_C__pf1474752154(const ABP_SimpleButton_C__pf1474752154&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_SimpleButton_C__pf1474752154); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_SimpleButton_C__pf1474752154); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_SimpleButton_C__pf1474752154)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_PRIVATE_PROPERTY_OFFSET
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_10_PROLOG \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_EVENT_PARMS
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_PRIVATE_PROPERTY_OFFSET \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_SPARSE_DATA \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_RPC_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_CALLBACK_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_INCLASS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_PRIVATE_PROPERTY_OFFSET \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_SPARSE_DATA \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_CALLBACK_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_INCLASS_NO_PURE_DECLS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h_14_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class ABP_SimpleButton_C__pf1474752154>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SimpleButton__pf1474752154_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

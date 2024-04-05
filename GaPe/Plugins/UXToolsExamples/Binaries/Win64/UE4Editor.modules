@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"UXToolsExamples": "UE4Editor-UXToolsExamples.dll",
+		"UXToolsExamplesShaders": "UE4Editor-UXToolsExamplesShaders.dll"
+	}
+}

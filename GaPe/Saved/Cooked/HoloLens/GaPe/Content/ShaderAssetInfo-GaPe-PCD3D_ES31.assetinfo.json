@@ -1,0 +1,371 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "55EFE1D4F93F927E534F4233DD69791BCCA04330",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72D2F8F14DE7612CB338E0460F969D747D8D067C",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Buttons/HoloLens2/MI_ButtonHoloLens2FrontPlateLocalInputRight.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7E9C72142362F08AEEF77869D9832E7E71157F2",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Buttons/HoloLens2/MI_ButtonHoloLens2FrontPlateLocalInputLeft.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15E857D2648346079D5730FE0AF9367500DD5AB7",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Buttons/HoloLens2/MI_ButtonHoloLens2FrontPlate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3E0D81B508069B3C9B2B4EA4C6D434C1ED641C3",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Materials/MI_HoloLens2BackPlate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1204433A448C2ACBFFA8BB0383DA2F629B4FB57B",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B84E2D95470FF3989D96CBCDB494FBE20D933A6",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E0FE6B3323DC9D9F97715EF19C3C68DE2BCC866",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C5076AB2B9781F5C5B3C5D36D2F61EC7DD6BD0E1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3E976C66BFF5A7293E8CF2C1478587FB16B45E36",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F8494A54CFBB060C329E40189D56AFBEBCD9AE8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "120BC6F836F82E8ACE1FCB214060782914F3FF11",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51136C31BAC16BB125A8EB3EA989188C1567C114",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8042D4B3D97AB4A7FC4604622FA580CED1034045",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "60A928A921834D9508A7458E13DC1DB45794EDB2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "21C56A076D247FF011D155D517E7A04B0581A049",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B8D28C598FFBEAD08A92C71B132A3EFFDC36EB9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F89015D345DCA32307F37E72A1F4E7436D5B46A2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4123369D866B32C0090F1522749E67595717D17A",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A46A4155A9F877B0A0B2106C38B935235A340DE5",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAE0F2DDF6D217CBAF7B8D819E78E49C425638CA",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D135C9ADFFEE10C5773EC3F090D14520E6C44D5",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7665A31E4A41141DDBC28D3B5EC1598C0DEF42E7",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7592B087755A08B5354BEB49F79617CBE80EBD95",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Content/PointCloud/PC/PointCloudSystem.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6501BAD669C10FB3BBAC3A9A2594D9B9D03A712F",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F726B7A5625B1E6B8CEE37F5D2C7840A38B1B521",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset",
+				"../../Plugins/Marketplace/UXTools/Content/Pointers/Materials/M_Light.uasset",
+				"../../Plugins/Marketplace/UXTools/Content/Pointers/Materials/M_Shadow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8B1B9909385120DE77E996EBB284A076F1A4546",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/XRSimulation/M_Hand.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7691AA109B87012EA082A83D300AD2D241A22009",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Tooltip/M_TooltipSpline.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "40B2D8F7B20C8304C69185C0AB5F03ED6E753C5D",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8BBB83B2BB519E7928F423B5E788B278E333AD4E",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Materials/M_ButtonBox.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFDA5FD431230D6E24B993DD34200F9B5B4D171",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Fonts/M_DefaultFont.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92C5A5404B097B3C50149A780E2AE83CE3FF8F86",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D6A7AF86A97B4ADEB11D81B027E9B704E7A29377",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Materials/M_SimpleLit_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A09298B6C911A14F66612EE35DB9BC37775C6BCA",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Pointers/Materials/M_FingerTipCursor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F9EC66E84A8A74AE1AB7DAADDBFCA79591CF7403",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/BoundsControl/M_Affordance.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0AFA87C778CC487D69128D52A7D4F88934FF5297",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Pointers/Materials/M_FarBeamSpline.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4705C74386B495370A4A3D58ED3347C5CA9FE816",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Materials/M_RoundedEdgeThick.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "807ED1FDC208F4FCC0663B25BC1E170440E67529",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9696BB7E1B18EFAA87A66BC19ED303D09CF797EE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03DA676A0C181F1280DD82EBD443BAEADEC4847E",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BD940B40A98A3A4DA65D747257C17D2310F7037",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6476EF83B01CED0A59D69EE0FBDF734DAAD7B2AD",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F191BEE16E777CCCEE6F835D1A9ADFC8A3F90F09",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "87597C7B832371AD3B7813CD73C4FC0E08F07BC4",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "53483C733F75D3648FD952E3AD3AF5E25241B918",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A7D1FE1BB8DE5C135E129B1AC6930225B63AA0CD",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FBD20FB7CCE32062CE3981C65ABAB8CACF7AB46E",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22D385B4DD599115B8D8EFC91983C40519F4EE49",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D2A00D12006F5E5DFD7142AE8071F8ADBDA860A9",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/BoundsControl/MI_BoundsControl.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F009117DF463512F7B275FE244DCDC39EC663E7B",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/Materials/M_GrabbableDots.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E73AF6F8C7E036A30BA2BE946D9D1373EE7657FC",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/DescriptionPanel/M_MRTKUnrealLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF6829E82BDBC9F51A81B29C9972350A60D4AA7F",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Button/Blueprints/M_MusicArtwork.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "939E5E6C84CF4943BF3491F9D5D83DBBF233A894",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/Assets/Materials/M_SimpleLit_Textured.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "93B8F3A8265341CC9D48060E0A98F6671EF28390",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/Assets/EarthCore/M_Earth.uasset",
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/Assets/CoffeeCup/MI_Coffee.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1127DD76A6ABCDD624A1166BD1CE51BF5DC2C3D8",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/Materials/M_TrackedSurfaceMesh.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "483F1C8D0892DD380517331166C2FEB186F87558",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/BoundsControl/MI_BoundsControlGrabbed.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3BD2A1F113C98B1428A2385D1900253F9701DE00",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Plugins/UXToolsExamples/Content/Common/Assets/CoffeeCup/M_CoffeeCup.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8D2E5EAD677AB6F8E8216EAFFDEFCCB05E1CC55",
+			"Assets": [
+				"../../Plugins/Marketplace/UXTools/Content/BoundsControl/M_BoundsControl.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F6A40567C8D5AC139A216EAE3FA461AAB654F44C",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6382F7D607841B1A48999D0047C301D9C7657CF2",
+			"Assets": [
+				"F:/Spring2023/Theia_system_0803_fromNSDI/GaPe/Content/sprite_material.uasset"
+			]
+		}
+	]
+}

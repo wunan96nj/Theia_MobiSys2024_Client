@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsExamplesShaders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Spring2023\Theia_system_Mobisys_auto\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UXToolsExamplesShaders.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\Default.rc2.res"
+/OUT:"H:\Spring2023\Theia_system_Mobisys_auto\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UE4Editor-UXToolsExamplesShaders.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsExamplesShaders

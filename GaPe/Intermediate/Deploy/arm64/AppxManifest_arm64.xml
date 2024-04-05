@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:uap4="http://schemas.microsoft.com/appx/manifest/uap/windows10/4" xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" IgnorableNamespaces="mp uap uap2 uap3 uap4 uap5">
+  <Identity Name="TheiaLootAuto" ProcessorArchitecture="arm64" Publisher="CN=GMU_NW" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>ms-resource:PackageDisplayName</DisplayName>
+    <PublisherDisplayName>ms-resource:PublisherDisplayName</PublisherDisplayName>
+    <Description>ms-resource:PackageDescription</Description>
+    <Logo>Resources\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" MinVersion="14.0.0.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="en" />
+  </Resources>
+  <Applications>
+    <Application Id="AppTheiaLootAuto" Executable="GaPe\Binaries\HoloLens\PointCloudarm64.exe" EntryPoint="TheiaLootAuto.app">
+      <uap:VisualElements DisplayName="ms-resource:AppDisplayName" Description="ms-resource:AppDescription" BackgroundColor="#000040" Square150x150Logo="Resources\Logo.png" Square44x44Logo="Resources\SmallLogo.png">
+        <uap:SplashScreen BackgroundColor="#000040" Image="Resources\SplashScreen.png" />
+        <uap:DefaultTile Wide310x150Logo="Resources\WideLogo.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <Capability Name="privateNetworkClientServer" />
+    <DeviceCapability Name="gazeInput" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Engine\Binaries\ThirdParty\HoloLens\arm64\Microsoft.Azure.SpatialAnchors.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.AnchorLocateCriteria" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.CloudSpatialAnchor" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.CloudSpatialAnchorSession" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.GeoLocation" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.NearAnchorCriteria" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.NearDeviceCriteria" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Azure.SpatialAnchors.PlatformLocationProvider" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Engine\Binaries\ThirdParty\HoloLens\arm64\Microsoft.MixedReality.QR.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.MixedReality.QR.QRCodeWatcher" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>Engine\Binaries\ThirdParty\HoloLens\arm64\Microsoft.MixedReality.SceneUnderstanding.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.MixedReality.SceneUnderstanding.Scene" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.MixedReality.SceneUnderstanding.SceneBounds" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.MixedReality.SceneUnderstanding.SceneFragment" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.MixedReality.SceneUnderstanding.SceneObserver" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+</Package>

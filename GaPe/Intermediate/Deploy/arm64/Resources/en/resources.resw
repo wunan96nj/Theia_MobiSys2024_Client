@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </data>
+  <data name="version">
+    <value>2.0</value>
+  </data>
+  <data name="reader">
+    <value>Tools.DotNETCommon.UEResXReader, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="writer">
+    <value>Tools.DotNETCommon.UEResXWriter, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+</root>

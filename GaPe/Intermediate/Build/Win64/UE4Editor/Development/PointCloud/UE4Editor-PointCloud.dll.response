@@ -1,0 +1,101 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"D:\Epic Games\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\AABox.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Capture.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\config.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\EyeActor.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\frame_buffer.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\FrustumG.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\hmp.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\logger.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\loggerActor.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\nativelib.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Plane.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloud.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloudRenderer.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\tools.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Vec3.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\VideoCommunication.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\videodata.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\video_scheduler.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Capture.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\EyeActor.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\loggerActor.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloud.init.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\PointCloudRenderer.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\Default.rc2.res"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Source\ThirdParty\lib\x64\draco.lib"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Source\ThirdParty\lib\x64\draco.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"D:\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4Editor\Development\Niagara\UE4Editor-Niagara.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Networking\UE4Editor-Networking.lib"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\EyeTracker\UE4Editor-EyeTracker.lib"
+"D:\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Binaries\Win64\UE4Editor-PointCloud.dll"
+/IMPLIB:"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud.suppressed.lib"
+/PDB:"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Binaries\Win64\UE4Editor-PointCloud.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_PointCloud

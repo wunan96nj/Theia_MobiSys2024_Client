@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsExamples.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Module.UXToolsExamples.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Module.UXToolsExamples.gen.cpp.obj"
+"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\Default.rc2.res"
+/OUT:"H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsExamples

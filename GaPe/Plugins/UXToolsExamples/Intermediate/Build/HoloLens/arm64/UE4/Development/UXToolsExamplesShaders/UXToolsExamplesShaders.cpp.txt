@@ -1,0 +1,37 @@
+F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Intermediate\Build\HoloLens\arm64\UE4\Development\UXToolsExamplesShaders\Definitions.UXToolsExamplesShaders.h
+F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\UXToolsExamples\Source\UXToolsExamplesShaders\Public\UXToolsExamplesShaders.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PointCloud",
+			"Path": "F:\\Spring2023\\Theia_system_0803_fromNSDI\\GaPe\\Source\\PointCloud.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PointCloudEditor",
+			"Path": "F:\\Spring2023\\Theia_system_0803_fromNSDI\\GaPe\\Source\\PointCloudEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

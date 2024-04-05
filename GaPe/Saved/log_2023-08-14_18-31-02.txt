@@ -1,0 +1,2488 @@
+current frame ID:0, current timestamp: 1692052262230
+current frame ID:0, current timestamp: 1692052262230
+Singel dynamic Cell frame ID:0,0 (0), decoding time 0 (decoder #1)
+current frame ID:0, current timestamp: 1692052262232
+current frame ID:0, current timestamp: 1692052262232
+Singel dynamic Cell frame ID:0,0 (562), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:0,0 (1373), decoding time 0 (decoder #3)
+current frame ID:0, current timestamp: 1692052262238
+current frame ID:0, current timestamp: 1692052262238
+current frame ID:0, current timestamp: 1692052262238
+current frame ID:0, current timestamp: 1692052262238
+Singel dynamic Cell frame ID:0,0 (1511), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:0,0 (1681), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:0,0 (5971), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:0,0 (25555), decoding time 3 (decoder #1)
+Current timestamp rendering at end: 1692052262242
+Current timestamp rendering at end: 1692052262275
+current frame ID:1, current timestamp: 1692052262293
+current frame ID:1, current timestamp: 1692052262293
+current frame ID:1, current timestamp: 1692052262293
+Singel dynamic Cell frame ID:0,0 (80639), decoding time 5 (decoder #2)
+All current frame ID:0,0 (80639), All decoding time 1692052262298 (decoder #2), current timestamp: 1692052262298
+current frame ID:1, current timestamp: 1692052262299
+current frame ID:1, current timestamp: 1692052262299
+current frame ID:1, current timestamp: 1692052262299
+current frame ID:1, current timestamp: 1692052262299
+Added frame to buffer, current timestamp: 1692052262302
+Singel dynamic Cell frame ID:1,1 (562), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:1,1 (562), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:1,1 (1369), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:1,1 (1539), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:1,1 (1676), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:1,1 (20986), decoding time 2 (decoder #2)
+current frame ID:1, current timestamp: 1692052262304
+Singel dynamic Cell frame ID:1,1 (25286), decoding time 0 (decoder #1)
+My current_frameid is: 0, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052262308
+Current timestamp rendering at end: 1692052262310
+current frame ID:2, current timestamp: 1692052262311
+current frame ID:2, current timestamp: 1692052262311
+current frame ID:2, current timestamp: 1692052262311
+current frame ID:2, current timestamp: 1692052262311
+Singel dynamic Cell frame ID:1,1 (80640), decoding time 5 (decoder #3)
+All current frame ID:1,1 (80640), All decoding time 18 (decoder #3), current timestamp: 1692052262316
+current frame ID:2, current timestamp: 1692052262317
+current frame ID:2, current timestamp: 1692052262317
+current frame ID:2, current timestamp: 1692052262317
+current frame ID:2, current timestamp: 1692052262317
+Added frame to buffer, current timestamp: 1692052262318
+Singel dynamic Cell frame ID:2,2 (794), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:2,2 (1356), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:2,2 (1356), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:2,2 (1492), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:2,2 (1661), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:2,2 (5962), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:2,2 (25286), decoding time 2 (decoder #3)
+current frame ID:3, current timestamp: 1692052262323
+current frame ID:3, current timestamp: 1692052262323
+current frame ID:3, current timestamp: 1692052262323
+current frame ID:3, current timestamp: 1692052262323
+Singel dynamic Cell frame ID:2,2 (80624), decoding time 4 (decoder #2)
+All current frame ID:2,2 (80624), All decoding time 11 (decoder #2), current timestamp: 1692052262327
+Added frame to buffer, current timestamp: 1692052262329
+Singel dynamic Cell frame ID:3,3 (561), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:3,3 (1356), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:3,3 (1356), decoding time 0 (decoder #1)
+current frame ID:3, current timestamp: 1692052262330
+current frame ID:3, current timestamp: 1692052262330
+current frame ID:3, current timestamp: 1692052262330
+current frame ID:3, current timestamp: 1692052262330
+Singel dynamic Cell frame ID:3,3 (1527), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:3,3 (1661), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:3,3 (5991), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:3,3 (25335), decoding time 3 (decoder #3)
+current frame ID:4, current timestamp: 1692052262337
+current frame ID:4, current timestamp: 1692052262337
+current frame ID:4, current timestamp: 1692052262337
+current frame ID:4, current timestamp: 1692052262337
+My current_frameid is: 1, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052262341
+Singel dynamic Cell frame ID:3,3 (80663), decoding time 4 (decoder #2)
+All current frame ID:3,3 (80663), All decoding time 14 (decoder #2), current timestamp: 1692052262341
+Current timestamp rendering at end: 1692052262342
+Added frame to buffer, current timestamp: 1692052262343
+Singel dynamic Cell frame ID:4,4 (793), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:4,4 (1355), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:4,4 (1355), decoding time 0 (decoder #4)
+My current_frameid is: 2, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052262374
+Current timestamp rendering at end: 1692052262375
+current frame ID:4, current timestamp: 1692052262393
+current frame ID:4, current timestamp: 1692052262393
+current frame ID:4, current timestamp: 1692052262393
+current frame ID:4, current timestamp: 1692052262393
+Singel dynamic Cell frame ID:4,4 (1488), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:4,4 (1658), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:4,4 (5984), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:4,4 (25261), decoding time 2 (decoder #2)
+current frame ID:5, current timestamp: 1692052262402
+current frame ID:5, current timestamp: 1692052262402
+current frame ID:5, current timestamp: 1692052262402
+current frame ID:5, current timestamp: 1692052262402
+current frame ID:5, current timestamp: 1692052262404
+current frame ID:5, current timestamp: 1692052262404
+current frame ID:5, current timestamp: 1692052262404
+current frame ID:5, current timestamp: 1692052262406
+Singel dynamic Cell frame ID:4,4 (80656), decoding time 4 (decoder #3)
+All current frame ID:4,4 (80656), All decoding time 66 (decoder #3), current timestamp: 1692052262407
+My current_frameid is: 3, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052262407
+Current timestamp rendering at end: 1692052262408
+Added frame to buffer, current timestamp: 1692052262408
+Singel dynamic Cell frame ID:5,5 (788), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:5,5 (1351), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:5,5 (1485), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:5,5 (1485), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:5,5 (1654), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:5,5 (5986), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:5,5 (25134), decoding time 3 (decoder #3)
+current frame ID:6, current timestamp: 1692052262413
+current frame ID:6, current timestamp: 1692052262413
+current frame ID:6, current timestamp: 1692052262413
+current frame ID:6, current timestamp: 1692052262413
+Singel dynamic Cell frame ID:5,5 (80647), decoding time 5 (decoder #2)
+All current frame ID:5,5 (80647), All decoding time 11 (decoder #2), current timestamp: 1692052262418
+Added frame to buffer, current timestamp: 1692052262419
+Singel dynamic Cell frame ID:6,6 (561), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:6,6 (561), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:6,6 (1350), decoding time 0 (decoder #4)
+current frame ID:6, current timestamp: 1692052262421
+current frame ID:6, current timestamp: 1692052262421
+current frame ID:6, current timestamp: 1692052262421
+Singel dynamic Cell frame ID:6,6 (1520), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:6,6 (1653), decoding time 0 (decoder #2)
+current frame ID:6, current timestamp: 1692052262421
+Singel dynamic Cell frame ID:6,6 (5995), decoding time 0 (decoder #4)
+current frame ID:7, current timestamp: 1692052262423
+current frame ID:7, current timestamp: 1692052262423
+current frame ID:7, current timestamp: 1692052262423
+Singel dynamic Cell frame ID:6,6 (24945), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:6,6 (80656), decoding time 5 (decoder #1)
+All current frame ID:6,6 (80656), All decoding time 10 (decoder #1), current timestamp: 1692052262428
+current frame ID:7, current timestamp: 1692052262429
+Added frame to buffer, current timestamp: 1692052262430
+Singel dynamic Cell frame ID:7,7 (563), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:7,7 (563), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:7,7 (1344), decoding time 0 (decoder #3)
+current frame ID:7, current timestamp: 1692052262431
+current frame ID:7, current timestamp: 1692052262431
+current frame ID:7, current timestamp: 1692052262431
+current frame ID:7, current timestamp: 1692052262431
+Singel dynamic Cell frame ID:7,7 (1513), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:7,7 (1647), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:7,7 (5988), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:7,7 (25045), decoding time 1 (decoder #2)
+My current_frameid is: 4, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262440
+Current timestamp rendering at end: 1692052262441
+Singel dynamic Cell frame ID:7,7 (80653), decoding time 6 (decoder #1)
+All current frame ID:7,7 (80653), All decoding time 14 (decoder #1), current timestamp: 1692052262442
+Added frame to buffer, current timestamp: 1692052262444
+current frame ID:8, current timestamp: 1692052262445
+Singel dynamic Cell frame ID:8,8 (0), decoding time 0 (decoder #4)
+My current_frameid is: 5, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262473
+Current timestamp rendering at end: 1692052262473
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+current frame ID:8, current timestamp: 1692052262492
+Singel dynamic Cell frame ID:8,8 (563), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:8,8 (696), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:8,8 (866), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:8,8 (1640), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:8,8 (5962), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:8,8 (24853), decoding time 2 (decoder #1)
+current frame ID:9, current timestamp: 1692052262502
+current frame ID:9, current timestamp: 1692052262502
+current frame ID:9, current timestamp: 1692052262502
+current frame ID:9, current timestamp: 1692052262502
+current frame ID:9, current timestamp: 1692052262504
+current frame ID:9, current timestamp: 1692052262504
+current frame ID:9, current timestamp: 1692052262504
+My current_frameid is: 6, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052262506
+Current timestamp rendering at end: 1692052262507
+current frame ID:9, current timestamp: 1692052262507
+Singel dynamic Cell frame ID:8,8 (80620), decoding time 5 (decoder #3)
+All current frame ID:8,8 (80620), All decoding time 65 (decoder #3), current timestamp: 1692052262507
+Added frame to buffer, current timestamp: 1692052262509
+Singel dynamic Cell frame ID:9,9 (765), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:9,9 (1329), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:9,9 (1329), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:9,9 (1462), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:9,9 (1631), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:9,9 (5931), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:9,9 (24635), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:9,9 (80589), decoding time 5 (decoder #4)
+All current frame ID:9,9 (80589), All decoding time 8 (decoder #4), current timestamp: 1692052262515
+Added frame to buffer, current timestamp: 1692052262516
+current frame ID:10, current timestamp: 1692052262525
+Singel dynamic Cell frame ID:10,10 (0), decoding time 0 (decoder #2)
+current frame ID:10, current timestamp: 1692052262527
+current frame ID:10, current timestamp: 1692052262527
+current frame ID:10, current timestamp: 1692052262527
+Singel dynamic Cell frame ID:10,10 (563), decoding time 0 (decoder #1)
+current frame ID:10, current timestamp: 1692052262527
+current frame ID:10, current timestamp: 1692052262527
+current frame ID:10, current timestamp: 1692052262527
+current frame ID:10, current timestamp: 1692052262527
+Singel dynamic Cell frame ID:10,10 (696), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:10,10 (865), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:10,10 (1624), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:10,10 (5918), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:10,10 (24576), decoding time 2 (decoder #4)
+Singel dynamic Cell frame ID:10,10 (80565), decoding time 5 (decoder #1)
+All current frame ID:10,10 (80565), All decoding time 21 (decoder #1), current timestamp: 1692052262536
+My current_frameid is: 7, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262539
+Added frame to buffer, current timestamp: 1692052262539
+Current timestamp rendering at end: 1692052262540
+My current_frameid is: 8, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262572
+Current timestamp rendering at end: 1692052262573
+current frame ID:11, current timestamp: 1692052262597
+current frame ID:11, current timestamp: 1692052262597
+Singel dynamic Cell frame ID:11,11 (0), decoding time 0 (decoder #3)
+current frame ID:11, current timestamp: 1692052262597
+current frame ID:11, current timestamp: 1692052262597
+Singel dynamic Cell frame ID:11,11 (563), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:11,11 (1320), decoding time 0 (decoder #4)
+current frame ID:11, current timestamp: 1692052262599
+current frame ID:11, current timestamp: 1692052262599
+current frame ID:11, current timestamp: 1692052262599
+current frame ID:11, current timestamp: 1692052262599
+Singel dynamic Cell frame ID:11,11 (1453), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:11,11 (1623), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:11,11 (5918), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:11,11 (24494), decoding time 2 (decoder #2)
+My current_frameid is: 9, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052262605
+Current timestamp rendering at end: 1692052262605
+current frame ID:12, current timestamp: 1692052262616
+current frame ID:12, current timestamp: 1692052262616
+current frame ID:12, current timestamp: 1692052262616
+current frame ID:12, current timestamp: 1692052262616
+current frame ID:12, current timestamp: 1692052262618
+current frame ID:12, current timestamp: 1692052262618
+current frame ID:12, current timestamp: 1692052262618
+current frame ID:12, current timestamp: 1692052262618
+Singel dynamic Cell frame ID:11,11 (80565), decoding time 5 (decoder #3)
+All current frame ID:11,11 (80565), All decoding time 85 (decoder #3), current timestamp: 1692052262621
+Added frame to buffer, current timestamp: 1692052262622
+Singel dynamic Cell frame ID:12,12 (564), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:12,12 (564), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:12,12 (1326), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:12,12 (1460), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:12,12 (1629), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:12,12 (5931), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:12,12 (24571), decoding time 2 (decoder #3)
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+current frame ID:13, current timestamp: 1692052262628
+Singel dynamic Cell frame ID:12,12 (80574), decoding time 6 (decoder #2)
+All current frame ID:12,12 (80574), All decoding time 14 (decoder #2), current timestamp: 1692052262635
+Added frame to buffer, current timestamp: 1692052262637
+Singel dynamic Cell frame ID:13,13 (563), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:13,13 (563), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:13,13 (1333), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:13,13 (1467), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:13,13 (1637), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:13,13 (5933), decoding time 0 (decoder #3)
+My current_frameid is: 10, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+current frame ID:14, current timestamp: 1692052262638
+Singel dynamic Cell frame ID:13,13 (24492), decoding time 2 (decoder #2)
+Current timestamp rendering at end: 1692052262639
+Singel dynamic Cell frame ID:13,13 (80582), decoding time 7 (decoder #4)
+All current frame ID:13,13 (80582), All decoding time 10 (decoder #4), current timestamp: 1692052262645
+Added frame to buffer, current timestamp: 1692052262646
+Singel dynamic Cell frame ID:14,14 (563), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:14,14 (1330), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:14,14 (1330), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:14,14 (1500), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:14,14 (1633), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:14,14 (5937), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:14,14 (24557), decoding time 2 (decoder #4)
+current frame ID:15, current timestamp: 1692052262649
+Singel dynamic Cell frame ID:14,14 (80594), decoding time 5 (decoder #2)
+All current frame ID:14,14 (80594), All decoding time 6 (decoder #2), current timestamp: 1692052262651
+Added frame to buffer, current timestamp: 1692052262652
+Singel dynamic Cell frame ID:15,15 (0), decoding time 0 (decoder #3)
+My current_frameid is: 11, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052262671
+Current timestamp rendering at end: 1692052262671
+current frame ID:15, current timestamp: 1692052262698
+current frame ID:15, current timestamp: 1692052262698
+current frame ID:15, current timestamp: 1692052262698
+Singel dynamic Cell frame ID:15,15 (562), decoding time 0 (decoder #1)
+current frame ID:15, current timestamp: 1692052262698
+Singel dynamic Cell frame ID:15,15 (1326), decoding time 0 (decoder #4)
+current frame ID:15, current timestamp: 1692052262698
+current frame ID:15, current timestamp: 1692052262698
+current frame ID:15, current timestamp: 1692052262698
+Singel dynamic Cell frame ID:15,15 (1459), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:15,15 (1627), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:15,15 (5945), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:15,15 (24613), decoding time 2 (decoder #2)
+current frame ID:16, current timestamp: 1692052262701
+current frame ID:16, current timestamp: 1692052262701
+current frame ID:16, current timestamp: 1692052262701
+current frame ID:16, current timestamp: 1692052262701
+My current_frameid is: 12, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262704
+Current timestamp rendering at end: 1692052262704
+Singel dynamic Cell frame ID:15,15 (80594), decoding time 5 (decoder #3)
+All current frame ID:15,15 (80594), All decoding time 55 (decoder #3), current timestamp: 1692052262706
+Added frame to buffer, current timestamp: 1692052262708
+Singel dynamic Cell frame ID:16,16 (562), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:16,16 (1330), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:16,16 (1330), decoding time 0 (decoder #4)
+current frame ID:16, current timestamp: 1692052262709
+current frame ID:16, current timestamp: 1692052262709
+current frame ID:16, current timestamp: 1692052262709
+current frame ID:16, current timestamp: 1692052262709
+Singel dynamic Cell frame ID:16,16 (1464), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:16,16 (1631), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:16,16 (5966), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:16,16 (24572), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:16,16 (80613), decoding time 6 (decoder #2)
+All current frame ID:16,16 (80613), All decoding time 9 (decoder #2), current timestamp: 1692052262715
+Added frame to buffer, current timestamp: 1692052262716
+current frame ID:17, current timestamp: 1692052262731
+current frame ID:17, current timestamp: 1692052262731
+Singel dynamic Cell frame ID:17,17 (0), decoding time 0 (decoder #1)
+current frame ID:17, current timestamp: 1692052262731
+current frame ID:17, current timestamp: 1692052262731
+Singel dynamic Cell frame ID:17,17 (562), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:17,17 (1335), decoding time 0 (decoder #3)
+current frame ID:17, current timestamp: 1692052262734
+current frame ID:17, current timestamp: 1692052262734
+current frame ID:17, current timestamp: 1692052262734
+current frame ID:17, current timestamp: 1692052262734
+Singel dynamic Cell frame ID:17,17 (1469), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:17,17 (1638), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:17,17 (5981), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:17,17 (24693), decoding time 2 (decoder #1)
+My current_frameid is: 13, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052262737
+Current timestamp rendering at end: 1692052262737
+Singel dynamic Cell frame ID:17,17 (80621), decoding time 5 (decoder #2)
+All current frame ID:17,17 (80621), All decoding time 24 (decoder #2), current timestamp: 1692052262739
+Added frame to buffer, current timestamp: 1692052262741
+My current_frameid is: 14, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052262770
+Current timestamp rendering at end: 1692052262770
+current frame ID:18, current timestamp: 1692052262799
+current frame ID:18, current timestamp: 1692052262799
+current frame ID:18, current timestamp: 1692052262799
+Singel dynamic Cell frame ID:18,18 (0), decoding time 0 (decoder #4)
+current frame ID:18, current timestamp: 1692052262799
+Singel dynamic Cell frame ID:18,18 (561), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:18,18 (1344), decoding time 0 (decoder #1)
+My current_frameid is: 15, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052262803
+current frame ID:18, current timestamp: 1692052262803
+current frame ID:18, current timestamp: 1692052262803
+current frame ID:18, current timestamp: 1692052262803
+current frame ID:18, current timestamp: 1692052262803
+Singel dynamic Cell frame ID:18,18 (1478), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:18,18 (1648), decoding time 0 (decoder #4)
+current frame ID:19, current timestamp: 1692052262803
+current frame ID:19, current timestamp: 1692052262803
+current frame ID:19, current timestamp: 1692052262803
+current frame ID:19, current timestamp: 1692052262803
+Singel dynamic Cell frame ID:18,18 (5997), decoding time 0 (decoder #1)
+Current timestamp rendering at end: 1692052262804
+Singel dynamic Cell frame ID:18,18 (24902), decoding time 2 (decoder #2)
+current frame ID:19, current timestamp: 1692052262808
+current frame ID:19, current timestamp: 1692052262808
+current frame ID:19, current timestamp: 1692052262808
+current frame ID:19, current timestamp: 1692052262808
+Singel dynamic Cell frame ID:18,18 (80646), decoding time 5 (decoder #3)
+All current frame ID:18,18 (80646), All decoding time 70 (decoder #3), current timestamp: 1692052262809
+Added frame to buffer, current timestamp: 1692052262810
+Singel dynamic Cell frame ID:19,19 (561), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:19,19 (1352), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:19,19 (1352), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:19,19 (1486), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:19,19 (1656), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:19,19 (6000), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:19,19 (24877), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:19,19 (80654), decoding time 5 (decoder #1)
+All current frame ID:19,19 (80654), All decoding time 10 (decoder #1), current timestamp: 1692052262819
+Added frame to buffer, current timestamp: 1692052262820
+current frame ID:20, current timestamp: 1692052262824
+Singel dynamic Cell frame ID:20,20 (0), decoding time 0 (decoder #2)
+current frame ID:20, current timestamp: 1692052262826
+current frame ID:20, current timestamp: 1692052262829
+current frame ID:20, current timestamp: 1692052262830
+current frame ID:20, current timestamp: 1692052262830
+current frame ID:20, current timestamp: 1692052262830
+current frame ID:20, current timestamp: 1692052262830
+Singel dynamic Cell frame ID:20,20 (562), decoding time 1 (decoder #4)
+current frame ID:20, current timestamp: 1692052262830
+Singel dynamic Cell frame ID:20,20 (697), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:20,20 (867), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:20,20 (1659), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:20,20 (6001), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:20,20 (25224), decoding time 3 (decoder #1)
+My current_frameid is: 16, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052262836
+Current timestamp rendering at end: 1692052262836
+Singel dynamic Cell frame ID:20,20 (80655), decoding time 5 (decoder #4)
+All current frame ID:20,20 (80655), All decoding time 20 (decoder #4), current timestamp: 1692052262839
+Added frame to buffer, current timestamp: 1692052262840
+current frame ID:21, current timestamp: 1692052262849
+Singel dynamic Cell frame ID:21,21 (0), decoding time 0 (decoder #3)
+current frame ID:21, current timestamp: 1692052262852
+current frame ID:21, current timestamp: 1692052262852
+current frame ID:21, current timestamp: 1692052262853
+current frame ID:21, current timestamp: 1692052262853
+current frame ID:21, current timestamp: 1692052262853
+current frame ID:21, current timestamp: 1692052262853
+current frame ID:21, current timestamp: 1692052262853
+Singel dynamic Cell frame ID:21,21 (561), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:21,21 (732), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:21,21 (868), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:21,21 (1655), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:21,21 (5995), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:21,21 (25219), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:21,21 (80656), decoding time 5 (decoder #4)
+All current frame ID:21,21 (80656), All decoding time 22 (decoder #4), current timestamp: 1692052262861
+Added frame to buffer, current timestamp: 1692052262863
+My current_frameid is: 17, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052262869
+Current timestamp rendering at end: 1692052262870
+My current_frameid is: 18, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052262902
+Current timestamp rendering at end: 1692052262903
+current frame ID:22, current timestamp: 1692052262904
+current frame ID:22, current timestamp: 1692052262904
+Singel dynamic Cell frame ID:22,22 (0), decoding time 0 (decoder #1)
+current frame ID:22, current timestamp: 1692052262904
+current frame ID:22, current timestamp: 1692052262904
+Singel dynamic Cell frame ID:22,22 (561), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:22,22 (1348), decoding time 1 (decoder #3)
+current frame ID:22, current timestamp: 1692052262912
+current frame ID:22, current timestamp: 1692052262912
+current frame ID:22, current timestamp: 1692052262912
+current frame ID:22, current timestamp: 1692052262912
+Singel dynamic Cell frame ID:22,22 (1483), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:22,22 (1654), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:22,22 (5998), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:22,22 (25214), decoding time 3 (decoder #4)
+current frame ID:23, current timestamp: 1692052262916
+current frame ID:23, current timestamp: 1692052262916
+current frame ID:23, current timestamp: 1692052262916
+current frame ID:23, current timestamp: 1692052262916
+current frame ID:23, current timestamp: 1692052262918
+current frame ID:23, current timestamp: 1692052262918
+current frame ID:23, current timestamp: 1692052262918
+current frame ID:23, current timestamp: 1692052262918
+Singel dynamic Cell frame ID:22,22 (80658), decoding time 5 (decoder #2)
+All current frame ID:22,22 (80658), All decoding time 60 (decoder #2), current timestamp: 1692052262921
+Added frame to buffer, current timestamp: 1692052262923
+Singel dynamic Cell frame ID:23,23 (781), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:23,23 (781), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:23,23 (1342), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:23,23 (1478), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:23,23 (1647), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:23,23 (5989), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:23,23 (25173), decoding time 3 (decoder #2)
+Singel dynamic Cell frame ID:23,23 (80643), decoding time 6 (decoder #4)
+All current frame ID:23,23 (80643), All decoding time 8 (decoder #4), current timestamp: 1692052262929
+Added frame to buffer, current timestamp: 1692052262931
+My current_frameid is: 19, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052262935
+Current timestamp rendering at end: 1692052262936
+current frame ID:24, current timestamp: 1692052262937
+Singel dynamic Cell frame ID:24,24 (0), decoding time 0 (decoder #1)
+current frame ID:24, current timestamp: 1692052262939
+current frame ID:24, current timestamp: 1692052262939
+current frame ID:24, current timestamp: 1692052262939
+current frame ID:24, current timestamp: 1692052262939
+Singel dynamic Cell frame ID:24,24 (561), decoding time 0 (decoder #3)
+current frame ID:24, current timestamp: 1692052262939
+current frame ID:24, current timestamp: 1692052262939
+current frame ID:24, current timestamp: 1692052262939
+Singel dynamic Cell frame ID:24,24 (698), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:24,24 (867), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:24,24 (1648), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:24,24 (5984), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:24,24 (25200), decoding time 3 (decoder #4)
+Singel dynamic Cell frame ID:24,24 (80642), decoding time 7 (decoder #3)
+All current frame ID:24,24 (80642), All decoding time 17 (decoder #3), current timestamp: 1692052262946
+Added frame to buffer, current timestamp: 1692052262948
+My current_frameid is: 20, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052262968
+Current timestamp rendering at end: 1692052262968
+My current_frameid is: 21, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052263001
+Current timestamp rendering at end: 1692052263001
+current frame ID:25, current timestamp: 1692052263007
+Singel dynamic Cell frame ID:25,25 (0), decoding time 0 (decoder #2)
+current frame ID:25, current timestamp: 1692052263009
+current frame ID:25, current timestamp: 1692052263010
+current frame ID:25, current timestamp: 1692052263010
+Singel dynamic Cell frame ID:25,25 (560), decoding time 0 (decoder #1)
+current frame ID:25, current timestamp: 1692052263010
+current frame ID:25, current timestamp: 1692052263010
+current frame ID:25, current timestamp: 1692052263010
+current frame ID:25, current timestamp: 1692052263010
+Singel dynamic Cell frame ID:25,25 (1348), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:25,25 (1484), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:25,25 (1653), decoding time 0 (decoder #1)
+current frame ID:26, current timestamp: 1692052263010
+current frame ID:26, current timestamp: 1692052263010
+current frame ID:26, current timestamp: 1692052263010
+current frame ID:26, current timestamp: 1692052263010
+Singel dynamic Cell frame ID:25,25 (5991), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:25,25 (25302), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:25,25 (80656), decoding time 5 (decoder #2)
+All current frame ID:25,25 (80656), All decoding time 69 (decoder #2), current timestamp: 1692052263015
+Added frame to buffer, current timestamp: 1692052263016
+Singel dynamic Cell frame ID:26,26 (794), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:26,26 (1356), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:26,26 (1356), decoding time 0 (decoder #1)
+current frame ID:26, current timestamp: 1692052263016
+current frame ID:26, current timestamp: 1692052263016
+current frame ID:26, current timestamp: 1692052263017
+current frame ID:26, current timestamp: 1692052263017
+Singel dynamic Cell frame ID:26,26 (1492), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:26,26 (1661), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:26,26 (6004), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:26,26 (25401), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:26,26 (80674), decoding time 4 (decoder #3)
+All current frame ID:26,26 (80674), All decoding time 8 (decoder #3), current timestamp: 1692052263023
+Added frame to buffer, current timestamp: 1692052263025
+current frame ID:27, current timestamp: 1692052263032
+Singel dynamic Cell frame ID:27,27 (0), decoding time 0 (decoder #4)
+My current_frameid is: 22, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052263034
+Current timestamp rendering at end: 1692052263034
+current frame ID:27, current timestamp: 1692052263034
+current frame ID:27, current timestamp: 1692052263034
+Singel dynamic Cell frame ID:27,27 (561), decoding time 1 (decoder #1)
+current frame ID:27, current timestamp: 1692052263037
+Singel dynamic Cell frame ID:27,27 (1366), decoding time 1 (decoder #2)
+current frame ID:27, current timestamp: 1692052263039
+current frame ID:27, current timestamp: 1692052263040
+current frame ID:27, current timestamp: 1692052263040
+current frame ID:27, current timestamp: 1692052263040
+Singel dynamic Cell frame ID:27,27 (1502), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:27,27 (1672), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:27,27 (6015), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:27,27 (25633), decoding time 2 (decoder #3)
+Singel dynamic Cell frame ID:27,27 (80679), decoding time 4 (decoder #4)
+All current frame ID:27,27 (80679), All decoding time 21 (decoder #4), current timestamp: 1692052263044
+Added frame to buffer, current timestamp: 1692052263046
+current frame ID:28, current timestamp: 1692052263057
+Singel dynamic Cell frame ID:28,28 (0), decoding time 0 (decoder #1)
+My current_frameid is: 23, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052263067
+Current timestamp rendering at end: 1692052263067
+My current_frameid is: 24, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052263100
+Current timestamp rendering at end: 1692052263100
+current frame ID:28, current timestamp: 1692052263106
+current frame ID:28, current timestamp: 1692052263106
+current frame ID:28, current timestamp: 1692052263106
+Singel dynamic Cell frame ID:28,28 (560), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:28,28 (1377), decoding time 0 (decoder #2)
+current frame ID:28, current timestamp: 1692052263110
+current frame ID:28, current timestamp: 1692052263110
+current frame ID:28, current timestamp: 1692052263110
+current frame ID:28, current timestamp: 1692052263110
+Singel dynamic Cell frame ID:28,28 (1513), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:28,28 (1682), decoding time 0 (decoder #3)
+current frame ID:29, current timestamp: 1692052263110
+current frame ID:29, current timestamp: 1692052263110
+current frame ID:29, current timestamp: 1692052263110
+current frame ID:29, current timestamp: 1692052263110
+Singel dynamic Cell frame ID:28,28 (6020), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:28,28 (25688), decoding time 2 (decoder #4)
+current frame ID:29, current timestamp: 1692052263114
+current frame ID:29, current timestamp: 1692052263114
+current frame ID:29, current timestamp: 1692052263114
+Singel dynamic Cell frame ID:28,28 (80671), decoding time 9 (decoder #1)
+All current frame ID:28,28 (80671), All decoding time 75 (decoder #1), current timestamp: 1692052263119
+current frame ID:29, current timestamp: 1692052263119
+Added frame to buffer, current timestamp: 1692052263120
+Singel dynamic Cell frame ID:29,29 (824), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:29,29 (1383), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:29,29 (1383), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:29,29 (1551), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:29,29 (1687), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:29,29 (6021), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:29,29 (25677), decoding time 3 (decoder #1)
+Singel dynamic Cell frame ID:29,29 (80684), decoding time 5 (decoder #2)
+All current frame ID:29,29 (80684), All decoding time 6 (decoder #2), current timestamp: 1692052263125
+Added frame to buffer, current timestamp: 1692052263127
+My current_frameid is: 25, highResPosFrameQueue size: 5, current timestamp start rendering: 1692052263133
+Current timestamp rendering at end: 1692052263133
+My current_frameid is: 26, highResPosFrameQueue size: 4, current timestamp start rendering: 1692052263166
+Current timestamp rendering at end: 1692052263166
+My current_frameid is: 27, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052263199
+fetch next chunk 30, at time: 1692052263199
+Current timestamp rendering at end: 1692052263200
+My current_frameid is: 28, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263232
+fetch next chunk 31, at time: 1692052263232
+Current timestamp rendering at end: 1692052263233
+current frame ID:30, current timestamp: 1692052263238
+Singel dynamic Cell frame ID:30,30 (0), decoding time 0 (decoder #4)
+current frame ID:30, current timestamp: 1692052263240
+current frame ID:30, current timestamp: 1692052263240
+Singel dynamic Cell frame ID:30,30 (388), decoding time 0 (decoder #3)
+current frame ID:30, current timestamp: 1692052263240
+current frame ID:30, current timestamp: 1692052263240
+current frame ID:30, current timestamp: 1692052263240
+current frame ID:30, current timestamp: 1692052263240
+Singel dynamic Cell frame ID:30,30 (530), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:30,30 (1457), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:30,30 (1581), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:30,30 (21230), decoding time 2 (decoder #2)
+current frame ID:30, current timestamp: 1692052263245
+Singel dynamic Cell frame ID:30,30 (23770), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:30,30 (32825), decoding time 2 (decoder #1)
+All current frame ID:30,30 (32825), All decoding time 122 (decoder #1), current timestamp: 1692052263247
+Added frame to buffer, current timestamp: 1692052263249
+current frame ID:31, current timestamp: 1692052263257
+Singel dynamic Cell frame ID:31,31 (0), decoding time 0 (decoder #3)
+current frame ID:31, current timestamp: 1692052263263
+current frame ID:31, current timestamp: 1692052263263
+current frame ID:31, current timestamp: 1692052263263
+Singel dynamic Cell frame ID:31,31 (389), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:31,31 (1312), decoding time 0 (decoder #4)
+My current_frameid is: 29, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263265
+fetch next chunk 32, at time: 1692052263265
+current frame ID:31, current timestamp: 1692052263265
+current frame ID:31, current timestamp: 1692052263265
+current frame ID:31, current timestamp: 1692052263265
+current frame ID:31, current timestamp: 1692052263265
+Singel dynamic Cell frame ID:31,31 (1454), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:31,31 (1580), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:31,31 (4118), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:31,31 (13110), decoding time 2 (decoder #3)
+Current timestamp rendering at end: 1692052263267
+Singel dynamic Cell frame ID:31,31 (32786), decoding time 3 (decoder #1)
+All current frame ID:31,31 (32786), All decoding time 21 (decoder #1), current timestamp: 1692052263268
+Added frame to buffer, current timestamp: 1692052263270
+My current_frameid is: 30, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263298
+fetch next chunk 33, at time: 1692052263298
+Current timestamp rendering at end: 1692052263299
+My current_frameid is: 31, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052263331
+fetch next chunk 34, at time: 1692052263331
+Current timestamp rendering at end: 1692052263332
+current frame ID:32, current timestamp: 1692052263343
+current frame ID:32, current timestamp: 1692052263343
+Singel dynamic Cell frame ID:32,32 (0), decoding time 0 (decoder #2)
+current frame ID:32, current timestamp: 1692052263343
+current frame ID:32, current timestamp: 1692052263343
+Singel dynamic Cell frame ID:32,32 (389), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:32,32 (1323), decoding time 0 (decoder #3)
+current frame ID:32, current timestamp: 1692052263350
+current frame ID:32, current timestamp: 1692052263350
+current frame ID:32, current timestamp: 1692052263350
+current frame ID:32, current timestamp: 1692052263350
+Singel dynamic Cell frame ID:32,32 (1448), decoding time 0 (decoder #2)
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+Singel dynamic Cell frame ID:32,32 (1589), decoding time 0 (decoder #4)
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+current frame ID:33, current timestamp: 1692052263350
+Singel dynamic Cell frame ID:32,32 (4123), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:32,32 (13169), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:32,32 (32851), decoding time 3 (decoder #1)
+All current frame ID:32,32 (32851), All decoding time 85 (decoder #1), current timestamp: 1692052263353
+Added frame to buffer, current timestamp: 1692052263355
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:33,33 (32851), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:33,33 (32934), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:33,33 (33154), decoding time 0 (decoder #3)
+All current frame ID:33,33 (0), All decoding time 2 (decoder #3), current timestamp: 1692052263355
+Added frame to buffer, current timestamp: 1692052263358
+current frame ID:34, current timestamp: 1692052263358
+current frame ID:34, current timestamp: 1692052263359
+Singel dynamic Cell frame ID:34,34 (0), decoding time 0 (decoder #4)
+current frame ID:34, current timestamp: 1692052263359
+current frame ID:34, current timestamp: 1692052263359
+Singel dynamic Cell frame ID:34,34 (414), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:34,34 (1406), decoding time 0 (decoder #1)
+current frame ID:34, current timestamp: 1692052263360
+current frame ID:34, current timestamp: 1692052263360
+current frame ID:34, current timestamp: 1692052263360
+Singel dynamic Cell frame ID:34,34 (1555), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:34,34 (1679), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:34,34 (22044), decoding time 3 (decoder #3)
+current frame ID:34, current timestamp: 1692052263363
+My current_frameid is: 32, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263364
+fetch next chunk 35, at time: 1692052263364
+Singel dynamic Cell frame ID:34,34 (24126), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:34,34 (32666), decoding time 2 (decoder #2)
+All current frame ID:34,34 (32666), All decoding time 10 (decoder #2), current timestamp: 1692052263365
+Current timestamp rendering at end: 1692052263365
+Added frame to buffer, current timestamp: 1692052263367
+My current_frameid is: 33, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263397
+fetch next chunk 36, at time: 1692052263397
+Current timestamp rendering at end: 1692052263397
+current frame ID:35, current timestamp: 1692052263416
+current frame ID:35, current timestamp: 1692052263416
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #4)
+current frame ID:35, current timestamp: 1692052263416
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #3)
+current frame ID:35, current timestamp: 1692052263416
+current frame ID:35, current timestamp: 1692052263416
+current frame ID:35, current timestamp: 1692052263416
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #4)
+current frame ID:35, current timestamp: 1692052263416
+current frame ID:35, current timestamp: 1692052263416
+Singel dynamic Cell frame ID:35,35 (32666), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:35,35 (32799), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:35,35 (33001), decoding time 0 (decoder #1)
+All current frame ID:35,35 (0), All decoding time 51 (decoder #1), current timestamp: 1692052263416
+Added frame to buffer, current timestamp: 1692052263418
+My current_frameid is: 34, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263430
+fetch next chunk 37, at time: 1692052263430
+Current timestamp rendering at end: 1692052263430
+current frame ID:36, current timestamp: 1692052263444
+current frame ID:36, current timestamp: 1692052263444
+current frame ID:36, current timestamp: 1692052263444
+Singel dynamic Cell frame ID:36,36 (0), decoding time 0 (decoder #4)
+current frame ID:36, current timestamp: 1692052263444
+Singel dynamic Cell frame ID:36,36 (464), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:36,36 (1822), decoding time 0 (decoder #2)
+current frame ID:36, current timestamp: 1692052263446
+current frame ID:36, current timestamp: 1692052263446
+current frame ID:36, current timestamp: 1692052263446
+current frame ID:36, current timestamp: 1692052263446
+Singel dynamic Cell frame ID:36,36 (1992), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:36,36 (2152), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:36,36 (3874), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:36,36 (11317), decoding time 2 (decoder #4)
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+current frame ID:37, current timestamp: 1692052263448
+Singel dynamic Cell frame ID:36,36 (32589), decoding time 3 (decoder #1)
+All current frame ID:36,36 (32589), All decoding time 33 (decoder #1), current timestamp: 1692052263449
+Added frame to buffer, current timestamp: 1692052263451
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:37,37 (32589), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:37,37 (32738), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:37,37 (32943), decoding time 0 (decoder #4)
+All current frame ID:37,37 (0), All decoding time 2 (decoder #4), current timestamp: 1692052263451
+Added frame to buffer, current timestamp: 1692052263453
+My current_frameid is: 35, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052263463
+fetch next chunk 38, at time: 1692052263463
+Current timestamp rendering at end: 1692052263463
+My current_frameid is: 36, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263496
+fetch next chunk 39, at time: 1692052263496
+Current timestamp rendering at end: 1692052263496
+current frame ID:38, current timestamp: 1692052263518
+current frame ID:38, current timestamp: 1692052263518
+Singel dynamic Cell frame ID:38,38 (0), decoding time 0 (decoder #3)
+current frame ID:38, current timestamp: 1692052263518
+current frame ID:38, current timestamp: 1692052263518
+current frame ID:38, current timestamp: 1692052263518
+current frame ID:38, current timestamp: 1692052263518
+current frame ID:38, current timestamp: 1692052263518
+Singel dynamic Cell frame ID:38,38 (477), decoding time 0 (decoder #3)
+current frame ID:38, current timestamp: 1692052263518
+Singel dynamic Cell frame ID:38,38 (656), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:38,38 (815), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:38,38 (2119), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:38,38 (3707), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:38,38 (11197), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:38,38 (32454), decoding time 3 (decoder #4)
+All current frame ID:38,38 (32454), All decoding time 70 (decoder #4), current timestamp: 1692052263521
+Added frame to buffer, current timestamp: 1692052263522
+My current_frameid is: 37, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263529
+fetch next chunk 40, at time: 1692052263529
+Current timestamp rendering at end: 1692052263530
+current frame ID:39, current timestamp: 1692052263534
+current frame ID:39, current timestamp: 1692052263534
+current frame ID:39, current timestamp: 1692052263534
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #1)
+current frame ID:39, current timestamp: 1692052263534
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #1)
+current frame ID:39, current timestamp: 1692052263534
+current frame ID:39, current timestamp: 1692052263534
+current frame ID:39, current timestamp: 1692052263534
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #2)
+current frame ID:39, current timestamp: 1692052263534
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:39,39 (32454), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:39,39 (32655), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:39,39 (32880), decoding time 0 (decoder #4)
+All current frame ID:39,39 (0), All decoding time 13 (decoder #4), current timestamp: 1692052263534
+Added frame to buffer, current timestamp: 1692052263535
+current frame ID:40, current timestamp: 1692052263551
+Singel dynamic Cell frame ID:40,40 (0), decoding time 0 (decoder #1)
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+current frame ID:40, current timestamp: 1692052263554
+Singel dynamic Cell frame ID:40,40 (482), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:40,40 (653), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:40,40 (818), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:40,40 (2192), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:40,40 (3832), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:40,40 (11274), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:40,40 (32510), decoding time 2 (decoder #4)
+All current frame ID:40,40 (32510), All decoding time 22 (decoder #4), current timestamp: 1692052263556
+Added frame to buffer, current timestamp: 1692052263557
+My current_frameid is: 38, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052263562
+fetch next chunk 41, at time: 1692052263562
+Current timestamp rendering at end: 1692052263563
+My current_frameid is: 39, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263595
+fetch next chunk 42, at time: 1692052263595
+Current timestamp rendering at end: 1692052263596
+current frame ID:41, current timestamp: 1692052263620
+current frame ID:41, current timestamp: 1692052263620
+current frame ID:41, current timestamp: 1692052263620
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #3)
+current frame ID:41, current timestamp: 1692052263620
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #1)
+current frame ID:41, current timestamp: 1692052263620
+current frame ID:41, current timestamp: 1692052263620
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #2)
+current frame ID:41, current timestamp: 1692052263620
+current frame ID:41, current timestamp: 1692052263620
+Singel dynamic Cell frame ID:41,41 (32510), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:41,41 (32720), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:41,41 (32922), decoding time 0 (decoder #2)
+All current frame ID:41,41 (0), All decoding time 64 (decoder #2), current timestamp: 1692052263620
+Added frame to buffer, current timestamp: 1692052263621
+My current_frameid is: 40, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263628
+fetch next chunk 43, at time: 1692052263628
+Current timestamp rendering at end: 1692052263628
+current frame ID:42, current timestamp: 1692052263648
+Singel dynamic Cell frame ID:42,42 (0), decoding time 0 (decoder #3)
+current frame ID:42, current timestamp: 1692052263650
+current frame ID:42, current timestamp: 1692052263650
+current frame ID:42, current timestamp: 1692052263650
+Singel dynamic Cell frame ID:42,42 (476), decoding time 0 (decoder #1)
+current frame ID:42, current timestamp: 1692052263650
+current frame ID:42, current timestamp: 1692052263650
+current frame ID:42, current timestamp: 1692052263650
+current frame ID:42, current timestamp: 1692052263650
+Singel dynamic Cell frame ID:42,42 (640), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:42,42 (806), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:42,42 (2114), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:42,42 (3688), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:42,42 (11268), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:42,42 (32498), decoding time 2 (decoder #2)
+All current frame ID:42,42 (32498), All decoding time 32 (decoder #2), current timestamp: 1692052263652
+Added frame to buffer, current timestamp: 1692052263653
+current frame ID:43, current timestamp: 1692052263655
+current frame ID:43, current timestamp: 1692052263655
+current frame ID:43, current timestamp: 1692052263655
+current frame ID:43, current timestamp: 1692052263655
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #1)
+current frame ID:43, current timestamp: 1692052263655
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #4)
+current frame ID:43, current timestamp: 1692052263655
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #4)
+current frame ID:43, current timestamp: 1692052263655
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #3)
+current frame ID:43, current timestamp: 1692052263655
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:43,43 (32498), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:43,43 (32641), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:43,43 (32859), decoding time 0 (decoder #4)
+All current frame ID:43,43 (0), All decoding time 3 (decoder #4), current timestamp: 1692052263655
+Added frame to buffer, current timestamp: 1692052263656
+My current_frameid is: 41, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052263661
+fetch next chunk 44, at time: 1692052263661
+Current timestamp rendering at end: 1692052263661
+My current_frameid is: 42, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263694
+fetch next chunk 45, at time: 1692052263694
+Current timestamp rendering at end: 1692052263694
+current frame ID:44, current timestamp: 1692052263721
+Singel dynamic Cell frame ID:44,44 (0), decoding time 0 (decoder #3)
+current frame ID:44, current timestamp: 1692052263723
+current frame ID:44, current timestamp: 1692052263723
+current frame ID:44, current timestamp: 1692052263723
+Singel dynamic Cell frame ID:44,44 (474), decoding time 1 (decoder #2)
+current frame ID:44, current timestamp: 1692052263724
+current frame ID:44, current timestamp: 1692052263724
+current frame ID:44, current timestamp: 1692052263724
+current frame ID:44, current timestamp: 1692052263724
+Singel dynamic Cell frame ID:44,44 (649), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:44,44 (813), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:44,44 (2193), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:44,44 (3927), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:44,44 (11434), decoding time 1 (decoder #4)
+My current_frameid is: 43, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052263727
+fetch next chunk 46, at time: 1692052263727
+Singel dynamic Cell frame ID:44,44 (32614), decoding time 3 (decoder #2)
+All current frame ID:44,44 (32614), All decoding time 72 (decoder #2), current timestamp: 1692052263727
+Current timestamp rendering at end: 1692052263728
+Added frame to buffer, current timestamp: 1692052263729
+current frame ID:45, current timestamp: 1692052263735
+current frame ID:45, current timestamp: 1692052263735
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #1)
+current frame ID:45, current timestamp: 1692052263735
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #3)
+current frame ID:45, current timestamp: 1692052263735
+current frame ID:45, current timestamp: 1692052263735
+current frame ID:45, current timestamp: 1692052263735
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #4)
+current frame ID:45, current timestamp: 1692052263735
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:45,45 (32614), decoding time 0 (decoder #3)
+current frame ID:45, current timestamp: 1692052263735
+Singel dynamic Cell frame ID:45,45 (32739), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:45,45 (32946), decoding time 0 (decoder #2)
+All current frame ID:45,45 (0), All decoding time 9 (decoder #2), current timestamp: 1692052263736
+Added frame to buffer, current timestamp: 1692052263737
+current frame ID:46, current timestamp: 1692052263755
+current frame ID:46, current timestamp: 1692052263755
+Singel dynamic Cell frame ID:46,46 (0), decoding time 0 (decoder #3)
+current frame ID:46, current timestamp: 1692052263755
+current frame ID:46, current timestamp: 1692052263755
+Singel dynamic Cell frame ID:46,46 (468), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:46,46 (1853), decoding time 1 (decoder #4)
+current frame ID:46, current timestamp: 1692052263757
+current frame ID:46, current timestamp: 1692052263757
+current frame ID:46, current timestamp: 1692052263757
+current frame ID:46, current timestamp: 1692052263757
+Singel dynamic Cell frame ID:46,46 (2020), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:46,46 (2183), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:46,46 (4068), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:46,46 (11552), decoding time 1 (decoder #4)
+My current_frameid is: 44, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263760
+fetch next chunk 47, at time: 1692052263760
+Singel dynamic Cell frame ID:46,46 (32582), decoding time 3 (decoder #2)
+All current frame ID:46,46 (32582), All decoding time 24 (decoder #2), current timestamp: 1692052263760
+Current timestamp rendering at end: 1692052263761
+Added frame to buffer, current timestamp: 1692052263762
+current frame ID:47, current timestamp: 1692052263770
+current frame ID:47, current timestamp: 1692052263770
+current frame ID:47, current timestamp: 1692052263770
+current frame ID:47, current timestamp: 1692052263770
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #4)
+current frame ID:47, current timestamp: 1692052263770
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #2)
+current frame ID:47, current timestamp: 1692052263770
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #4)
+current frame ID:47, current timestamp: 1692052263770
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:47,47 (32582), decoding time 0 (decoder #1)
+current frame ID:47, current timestamp: 1692052263770
+Singel dynamic Cell frame ID:47,47 (32715), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:47,47 (32936), decoding time 0 (decoder #4)
+All current frame ID:47,47 (0), All decoding time 10 (decoder #4), current timestamp: 1692052263770
+Added frame to buffer, current timestamp: 1692052263773
+My current_frameid is: 45, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052263793
+fetch next chunk 48, at time: 1692052263793
+Current timestamp rendering at end: 1692052263793
+My current_frameid is: 46, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263826
+fetch next chunk 49, at time: 1692052263826
+Current timestamp rendering at end: 1692052263826
+current frame ID:48, current timestamp: 1692052263854
+Singel dynamic Cell frame ID:48,48 (0), decoding time 0 (decoder #2)
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+current frame ID:48, current timestamp: 1692052263856
+Singel dynamic Cell frame ID:48,48 (477), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:48,48 (636), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:48,48 (803), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:48,48 (2151), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:48,48 (3978), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:48,48 (11529), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:48,48 (32630), decoding time 2 (decoder #4)
+All current frame ID:48,48 (32630), All decoding time 87 (decoder #4), current timestamp: 1692052263858
+My current_frameid is: 47, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052263859
+fetch next chunk 50, at time: 1692052263859
+Added frame to buffer, current timestamp: 1692052263861
+Current timestamp rendering at end: 1692052263861
+current frame ID:49, current timestamp: 1692052263864
+current frame ID:49, current timestamp: 1692052263864
+Singel dynamic Cell frame ID:49,49 (0), decoding time 0 (decoder #1)
+current frame ID:49, current timestamp: 1692052263866
+current frame ID:49, current timestamp: 1692052263866
+current frame ID:49, current timestamp: 1692052263866
+current frame ID:49, current timestamp: 1692052263866
+Singel dynamic Cell frame ID:49,49 (484), decoding time 0 (decoder #3)
+current frame ID:49, current timestamp: 1692052263866
+current frame ID:49, current timestamp: 1692052263866
+Singel dynamic Cell frame ID:49,49 (646), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:49,49 (819), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:49,49 (2118), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:49,49 (3834), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:49,49 (11343), decoding time 2 (decoder #1)
+Singel dynamic Cell frame ID:49,49 (32509), decoding time 2 (decoder #4)
+All current frame ID:49,49 (32509), All decoding time 10 (decoder #4), current timestamp: 1692052263868
+Added frame to buffer, current timestamp: 1692052263869
+current frame ID:50, current timestamp: 1692052263877
+Singel dynamic Cell frame ID:50,50 (0), decoding time 0 (decoder #2)
+My current_frameid is: 48, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263892
+fetch next chunk 51, at time: 1692052263892
+Current timestamp rendering at end: 1692052263893
+My current_frameid is: 49, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052263925
+fetch next chunk 52, at time: 1692052263925
+Current timestamp rendering at end: 1692052263926
+current frame ID:50, current timestamp: 1692052263931
+current frame ID:50, current timestamp: 1692052263931
+current frame ID:50, current timestamp: 1692052263931
+Singel dynamic Cell frame ID:50,50 (484), decoding time 0 (decoder #3)
+current frame ID:50, current timestamp: 1692052263931
+current frame ID:50, current timestamp: 1692052263931
+current frame ID:50, current timestamp: 1692052263931
+Singel dynamic Cell frame ID:50,50 (1825), decoding time 0 (decoder #1)
+current frame ID:50, current timestamp: 1692052263931
+Singel dynamic Cell frame ID:50,50 (1996), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:50,50 (2156), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:50,50 (3949), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:50,50 (11413), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:50,50 (32548), decoding time 4 (decoder #3)
+All current frame ID:50,50 (32548), All decoding time 67 (decoder #3), current timestamp: 1692052263935
+Added frame to buffer, current timestamp: 1692052263938
+My current_frameid is: 50, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052263958
+fetch next chunk 53, at time: 1692052263958
+Current timestamp rendering at end: 1692052263959
+current frame ID:51, current timestamp: 1692052263965
+Singel dynamic Cell frame ID:51,51 (0), decoding time 0 (decoder #4)
+current frame ID:51, current timestamp: 1692052263968
+current frame ID:51, current timestamp: 1692052263968
+Singel dynamic Cell frame ID:51,51 (488), decoding time 1 (decoder #1)
+current frame ID:51, current timestamp: 1692052263972
+current frame ID:51, current timestamp: 1692052263972
+current frame ID:51, current timestamp: 1692052263972
+current frame ID:51, current timestamp: 1692052263972
+current frame ID:51, current timestamp: 1692052263972
+Singel dynamic Cell frame ID:51,51 (658), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:51,51 (817), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:51,51 (2156), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:51,51 (3946), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:51,51 (11367), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:51,51 (32508), decoding time 3 (decoder #3)
+All current frame ID:51,51 (32508), All decoding time 40 (decoder #3), current timestamp: 1692052263975
+current frame ID:52, current timestamp: 1692052263977
+Added frame to buffer, current timestamp: 1692052263978
+Singel dynamic Cell frame ID:52,52 (0), decoding time 0 (decoder #2)
+current frame ID:52, current timestamp: 1692052263979
+current frame ID:52, current timestamp: 1692052263980
+current frame ID:52, current timestamp: 1692052263980
+Singel dynamic Cell frame ID:52,52 (481), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:52,52 (1788), decoding time 0 (decoder #1)
+current frame ID:52, current timestamp: 1692052263983
+current frame ID:52, current timestamp: 1692052263983
+current frame ID:52, current timestamp: 1692052263983
+current frame ID:52, current timestamp: 1692052263983
+Singel dynamic Cell frame ID:52,52 (1958), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:52,52 (2117), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:52,52 (3878), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:52,52 (11305), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:52,52 (32514), decoding time 2 (decoder #2)
+All current frame ID:52,52 (32514), All decoding time 10 (decoder #2), current timestamp: 1692052263985
+Added frame to buffer, current timestamp: 1692052263987
+My current_frameid is: 51, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052263991
+fetch next chunk 54, at time: 1692052263991
+Current timestamp rendering at end: 1692052263992
+My current_frameid is: 52, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052264024
+fetch next chunk 55, at time: 1692052264024
+Current timestamp rendering at end: 1692052264025
+current frame ID:53, current timestamp: 1692052264028
+current frame ID:53, current timestamp: 1692052264028
+Singel dynamic Cell frame ID:53,53 (0), decoding time 0 (decoder #4)
+current frame ID:53, current timestamp: 1692052264029
+current frame ID:53, current timestamp: 1692052264029
+Singel dynamic Cell frame ID:53,53 (478), decoding time 0 (decoder #1)
+current frame ID:53, current timestamp: 1692052264029
+current frame ID:53, current timestamp: 1692052264029
+current frame ID:53, current timestamp: 1692052264029
+Singel dynamic Cell frame ID:53,53 (649), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:53,53 (805), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:53,53 (2107), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:53,53 (23219), decoding time 2 (decoder #1)
+current frame ID:53, current timestamp: 1692052264032
+Singel dynamic Cell frame ID:53,53 (24982), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:53,53 (32513), decoding time 2 (decoder #2)
+All current frame ID:53,53 (32513), All decoding time 51 (decoder #2), current timestamp: 1692052264036
+Added frame to buffer, current timestamp: 1692052264038
+My current_frameid is: 53, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052264057
+fetch next chunk 56, at time: 1692052264057
+Current timestamp rendering at end: 1692052264058
+current frame ID:54, current timestamp: 1692052264060
+Singel dynamic Cell frame ID:54,54 (0), decoding time 0 (decoder #3)
+current frame ID:54, current timestamp: 1692052264062
+current frame ID:54, current timestamp: 1692052264063
+current frame ID:54, current timestamp: 1692052264063
+Singel dynamic Cell frame ID:54,54 (481), decoding time 0 (decoder #1)
+current frame ID:54, current timestamp: 1692052264063
+current frame ID:54, current timestamp: 1692052264063
+current frame ID:54, current timestamp: 1692052264063
+current frame ID:54, current timestamp: 1692052264063
+Singel dynamic Cell frame ID:54,54 (647), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:54,54 (809), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:54,54 (2118), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:54,54 (3872), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:54,54 (11309), decoding time 2 (decoder #1)
+Singel dynamic Cell frame ID:54,54 (32464), decoding time 3 (decoder #2)
+All current frame ID:54,54 (32464), All decoding time 30 (decoder #2), current timestamp: 1692052264066
+Added frame to buffer, current timestamp: 1692052264068
+current frame ID:55, current timestamp: 1692052264070
+current frame ID:55, current timestamp: 1692052264070
+Singel dynamic Cell frame ID:55,55 (0), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:55,55 (502), decoding time 0 (decoder #3)
+current frame ID:55, current timestamp: 1692052264072
+current frame ID:55, current timestamp: 1692052264072
+current frame ID:55, current timestamp: 1692052264072
+current frame ID:55, current timestamp: 1692052264072
+current frame ID:55, current timestamp: 1692052264072
+current frame ID:55, current timestamp: 1692052264072
+Singel dynamic Cell frame ID:55,55 (679), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:55,55 (850), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:55,55 (2243), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:55,55 (3969), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:55,55 (11344), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:55,55 (32424), decoding time 4 (decoder #2)
+All current frame ID:55,55 (32424), All decoding time 10 (decoder #2), current timestamp: 1692052264076
+Added frame to buffer, current timestamp: 1692052264078
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+Singel dynamic Cell frame ID:56,56 (0), decoding time 0 (decoder #1)
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+current frame ID:56, current timestamp: 1692052264083
+Singel dynamic Cell frame ID:56,56 (504), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:56,56 (681), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:56,56 (855), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:56,56 (2290), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:56,56 (4012), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:56,56 (11352), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:56,56 (32412), decoding time 3 (decoder #2)
+All current frame ID:56,56 (32412), All decoding time 10 (decoder #2), current timestamp: 1692052264086
+Added frame to buffer, current timestamp: 1692052264088
+My current_frameid is: 54, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264090
+fetch next chunk 57, at time: 1692052264090
+Current timestamp rendering at end: 1692052264090
+My current_frameid is: 55, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264123
+fetch next chunk 58, at time: 1692052264123
+Current timestamp rendering at end: 1692052264123
+My current_frameid is: 56, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052264156
+fetch next chunk 59, at time: 1692052264156
+Current timestamp rendering at end: 1692052264157
+current frame ID:57, current timestamp: 1692052264161
+Singel dynamic Cell frame ID:57,57 (0), decoding time 0 (decoder #3)
+current frame ID:57, current timestamp: 1692052264164
+current frame ID:57, current timestamp: 1692052264164
+current frame ID:57, current timestamp: 1692052264164
+Singel dynamic Cell frame ID:57,57 (506), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:57,57 (1989), decoding time 0 (decoder #4)
+current frame ID:57, current timestamp: 1692052264166
+current frame ID:57, current timestamp: 1692052264166
+current frame ID:57, current timestamp: 1692052264166
+current frame ID:57, current timestamp: 1692052264166
+Singel dynamic Cell frame ID:57,57 (2169), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:57,57 (2344), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:57,57 (4104), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:57,57 (25211), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:57,57 (32460), decoding time 1 (decoder #3)
+All current frame ID:57,57 (32460), All decoding time 83 (decoder #3), current timestamp: 1692052264169
+Added frame to buffer, current timestamp: 1692052264171
+current frame ID:58, current timestamp: 1692052264171
+current frame ID:58, current timestamp: 1692052264171
+Singel dynamic Cell frame ID:58,58 (0), decoding time 0 (decoder #1)
+current frame ID:58, current timestamp: 1692052264171
+Singel dynamic Cell frame ID:58,58 (521), decoding time 0 (decoder #1)
+current frame ID:58, current timestamp: 1692052264174
+Singel dynamic Cell frame ID:58,58 (2038), decoding time 0 (decoder #2)
+current frame ID:58, current timestamp: 1692052264176
+current frame ID:58, current timestamp: 1692052264176
+current frame ID:58, current timestamp: 1692052264176
+current frame ID:58, current timestamp: 1692052264176
+Singel dynamic Cell frame ID:58,58 (2220), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:58,58 (2401), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:58,58 (4125), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:58,58 (11330), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:58,58 (32439), decoding time 2 (decoder #3)
+All current frame ID:58,58 (32439), All decoding time 9 (decoder #3), current timestamp: 1692052264178
+Added frame to buffer, current timestamp: 1692052264180
+current frame ID:59, current timestamp: 1692052264184
+current frame ID:59, current timestamp: 1692052264184
+Singel dynamic Cell frame ID:59,59 (0), decoding time 0 (decoder #4)
+current frame ID:59, current timestamp: 1692052264184
+current frame ID:59, current timestamp: 1692052264184
+Singel dynamic Cell frame ID:59,59 (521), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:59,59 (2025), decoding time 0 (decoder #1)
+current frame ID:59, current timestamp: 1692052264186
+current frame ID:59, current timestamp: 1692052264186
+current frame ID:59, current timestamp: 1692052264186
+current frame ID:59, current timestamp: 1692052264186
+Singel dynamic Cell frame ID:59,59 (2205), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:59,59 (2387), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:59,59 (4119), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:59,59 (11350), decoding time 2 (decoder #2)
+My current_frameid is: 57, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264189
+fetch next chunk 60, at time: 1692052264189
+Singel dynamic Cell frame ID:59,59 (32461), decoding time 3 (decoder #3)
+All current frame ID:59,59 (32461), All decoding time 11 (decoder #3), current timestamp: 1692052264189
+Current timestamp rendering at end: 1692052264190
+Added frame to buffer, current timestamp: 1692052264191
+My current_frameid is: 58, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264222
+fetch next chunk 61, at time: 1692052264222
+Current timestamp rendering at end: 1692052264222
+current frame ID:60, current timestamp: 1692052264250
+current frame ID:60, current timestamp: 1692052264250
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32461), decoding time 0 (decoder #4)
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32461), decoding time 0 (decoder #4)
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32461), decoding time 0 (decoder #1)
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32461), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:60,60 (32461), decoding time 0 (decoder #2)
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32604), decoding time 0 (decoder #4)
+current frame ID:60, current timestamp: 1692052264250
+Singel dynamic Cell frame ID:60,60 (32604), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:60,60 (32819), decoding time 0 (decoder #4)
+All current frame ID:60,60 (0), All decoding time 61 (decoder #4), current timestamp: 1692052264250
+Added frame to buffer, current timestamp: 1692052264251
+My current_frameid is: 59, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264255
+fetch next chunk 62, at time: 1692052264255
+Current timestamp rendering at end: 1692052264256
+current frame ID:61, current timestamp: 1692052264268
+Singel dynamic Cell frame ID:61,61 (0), decoding time 0 (decoder #3)
+current frame ID:61, current timestamp: 1692052264271
+current frame ID:61, current timestamp: 1692052264271
+current frame ID:61, current timestamp: 1692052264271
+Singel dynamic Cell frame ID:61,61 (638), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:61,61 (5114), decoding time 0 (decoder #1)
+current frame ID:61, current timestamp: 1692052264274
+current frame ID:61, current timestamp: 1692052264274
+current frame ID:61, current timestamp: 1692052264274
+current frame ID:61, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+current frame ID:62, current timestamp: 1692052264274
+Singel dynamic Cell frame ID:61,61 (5364), decoding time 0 (decoder #2)
+current frame ID:62, current timestamp: 1692052264274
+Singel dynamic Cell frame ID:61,61 (5619), decoding time 0 (decoder #1)
+current frame ID:62, current timestamp: 1692052264274
+Singel dynamic Cell frame ID:61,61 (7915), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:61,61 (15041), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:61,61 (33003), decoding time 2 (decoder #3)
+All current frame ID:61,61 (33003), All decoding time 26 (decoder #3), current timestamp: 1692052264276
+Added frame to buffer, current timestamp: 1692052264277
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:62,62 (33003), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:62,62 (33467), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:62,62 (33860), decoding time 0 (decoder #4)
+All current frame ID:62,62 (0), All decoding time 1 (decoder #4), current timestamp: 1692052264277
+Added frame to buffer, current timestamp: 1692052264279
+My current_frameid is: 60, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264288
+fetch next chunk 63, at time: 1692052264288
+Current timestamp rendering at end: 1692052264289
+My current_frameid is: 61, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264321
+fetch next chunk 64, at time: 1692052264321
+Current timestamp rendering at end: 1692052264321
+My current_frameid is: 62, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052264354
+fetch next chunk 65, at time: 1692052264354
+Current timestamp rendering at end: 1692052264354
+current frame ID:63, current timestamp: 1692052264366
+Singel dynamic Cell frame ID:63,63 (0), decoding time 0 (decoder #3)
+current frame ID:63, current timestamp: 1692052264369
+current frame ID:63, current timestamp: 1692052264369
+current frame ID:63, current timestamp: 1692052264369
+Singel dynamic Cell frame ID:63,63 (646), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:63,63 (5015), decoding time 1 (decoder #2)
+current frame ID:63, current timestamp: 1692052264371
+current frame ID:63, current timestamp: 1692052264372
+current frame ID:63, current timestamp: 1692052264372
+current frame ID:63, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+Singel dynamic Cell frame ID:63,63 (5275), decoding time 0 (decoder #1)
+current frame ID:64, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+Singel dynamic Cell frame ID:63,63 (5524), decoding time 0 (decoder #3)
+current frame ID:64, current timestamp: 1692052264372
+current frame ID:64, current timestamp: 1692052264372
+Singel dynamic Cell frame ID:63,63 (7671), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:63,63 (14852), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:63,63 (32912), decoding time 3 (decoder #4)
+All current frame ID:63,63 (32912), All decoding time 97 (decoder #4), current timestamp: 1692052264374
+Added frame to buffer, current timestamp: 1692052264375
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:64,64 (32912), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:64,64 (33289), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:64,64 (33682), decoding time 0 (decoder #3)
+All current frame ID:64,64 (0), All decoding time 1 (decoder #3), current timestamp: 1692052264375
+Added frame to buffer, current timestamp: 1692052264376
+current frame ID:65, current timestamp: 1692052264380
+current frame ID:65, current timestamp: 1692052264380
+Singel dynamic Cell frame ID:65,65 (0), decoding time 0 (decoder #1)
+current frame ID:65, current timestamp: 1692052264380
+Singel dynamic Cell frame ID:65,65 (672), decoding time 0 (decoder #1)
+current frame ID:65, current timestamp: 1692052264385
+current frame ID:65, current timestamp: 1692052264385
+current frame ID:65, current timestamp: 1692052264386
+current frame ID:65, current timestamp: 1692052264386
+current frame ID:65, current timestamp: 1692052264386
+Singel dynamic Cell frame ID:65,65 (944), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:65,65 (1192), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:65,65 (3278), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:65,65 (7526), decoding time 1 (decoder #4)
+My current_frameid is: 63, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264387
+fetch next chunk 66, at time: 1692052264387
+Singel dynamic Cell frame ID:65,65 (14550), decoding time 1 (decoder #2)
+Current timestamp rendering at end: 1692052264387
+Singel dynamic Cell frame ID:65,65 (32506), decoding time 3 (decoder #3)
+All current frame ID:65,65 (32506), All decoding time 13 (decoder #3), current timestamp: 1692052264388
+Added frame to buffer, current timestamp: 1692052264390
+My current_frameid is: 64, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264420
+fetch next chunk 67, at time: 1692052264420
+Current timestamp rendering at end: 1692052264421
+current frame ID:66, current timestamp: 1692052264437
+current frame ID:66, current timestamp: 1692052264437
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #1)
+current frame ID:66, current timestamp: 1692052264437
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #4)
+current frame ID:66, current timestamp: 1692052264437
+current frame ID:66, current timestamp: 1692052264437
+current frame ID:66, current timestamp: 1692052264437
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #1)
+current frame ID:66, current timestamp: 1692052264437
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #2)
+current frame ID:66, current timestamp: 1692052264437
+Singel dynamic Cell frame ID:66,66 (32506), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:66,66 (32951), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:66,66 (33407), decoding time 0 (decoder #1)
+All current frame ID:66,66 (0), All decoding time 49 (decoder #1), current timestamp: 1692052264437
+Added frame to buffer, current timestamp: 1692052264439
+My current_frameid is: 65, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264453
+fetch next chunk 68, at time: 1692052264453
+Current timestamp rendering at end: 1692052264454
+current frame ID:67, current timestamp: 1692052264465
+Singel dynamic Cell frame ID:67,67 (0), decoding time 0 (decoder #2)
+current frame ID:67, current timestamp: 1692052264467
+current frame ID:67, current timestamp: 1692052264467
+current frame ID:67, current timestamp: 1692052264467
+Singel dynamic Cell frame ID:67,67 (683), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:67,67 (4724), decoding time 0 (decoder #4)
+current frame ID:67, current timestamp: 1692052264469
+current frame ID:67, current timestamp: 1692052264469
+current frame ID:67, current timestamp: 1692052264469
+current frame ID:67, current timestamp: 1692052264469
+Singel dynamic Cell frame ID:67,67 (4960), decoding time 0 (decoder #2)
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+Singel dynamic Cell frame ID:67,67 (5223), decoding time 0 (decoder #3)
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+current frame ID:68, current timestamp: 1692052264469
+Singel dynamic Cell frame ID:67,67 (7392), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:67,67 (14151), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:67,67 (32399), decoding time 2 (decoder #1)
+All current frame ID:67,67 (32399), All decoding time 34 (decoder #1), current timestamp: 1692052264471
+Added frame to buffer, current timestamp: 1692052264473
+Singel dynamic Cell frame ID:68,68 (32465), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:68,68 (32465), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:68,68 (32465), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:68,68 (32465), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:68,68 (32529), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:68,68 (32593), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:68,68 (32593), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:68,68 (32823), decoding time 0 (decoder #2)
+All current frame ID:68,68 (0), All decoding time 2 (decoder #2), current timestamp: 1692052264473
+Added frame to buffer, current timestamp: 1692052264475
+My current_frameid is: 66, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264486
+fetch next chunk 69, at time: 1692052264486
+Current timestamp rendering at end: 1692052264487
+My current_frameid is: 67, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264519
+fetch next chunk 70, at time: 1692052264519
+Current timestamp rendering at end: 1692052264520
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+Singel dynamic Cell frame ID:69,69 (0), decoding time 0 (decoder #1)
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+current frame ID:69, current timestamp: 1692052264542
+Singel dynamic Cell frame ID:69,69 (833), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:69,69 (1155), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:69,69 (1531), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:69,69 (4038), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:69,69 (7269), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:69,69 (20293), decoding time 2 (decoder #1)
+Singel dynamic Cell frame ID:69,69 (29196), decoding time 3 (decoder #3)
+All current frame ID:69,69 (29196), All decoding time 72 (decoder #3), current timestamp: 1692052264545
+Added frame to buffer, current timestamp: 1692052264546
+current frame ID:70, current timestamp: 1692052264551
+current frame ID:70, current timestamp: 1692052264551
+current frame ID:70, current timestamp: 1692052264551
+Singel dynamic Cell frame ID:70,70 (29196), decoding time 0 (decoder #2)
+current frame ID:70, current timestamp: 1692052264551
+Singel dynamic Cell frame ID:70,70 (29196), decoding time 0 (decoder #4)
+current frame ID:70, current timestamp: 1692052264551
+current frame ID:70, current timestamp: 1692052264551
+current frame ID:70, current timestamp: 1692052264551
+Singel dynamic Cell frame ID:70,70 (29196), decoding time 0 (decoder #4)
+current frame ID:70, current timestamp: 1692052264551
+Singel dynamic Cell frame ID:70,70 (29196), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:70,70 (29255), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:70,70 (29400), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:70,70 (29629), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:70,70 (29735), decoding time 0 (decoder #1)
+All current frame ID:70,70 (0), All decoding time 6 (decoder #1), current timestamp: 1692052264551
+My current_frameid is: 68, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264552
+fetch next chunk 71, at time: 1692052264552
+Current timestamp rendering at end: 1692052264553
+Added frame to buffer, current timestamp: 1692052264553
+current frame ID:71, current timestamp: 1692052264583
+current frame ID:71, current timestamp: 1692052264583
+Singel dynamic Cell frame ID:71,71 (0), decoding time 0 (decoder #3)
+current frame ID:71, current timestamp: 1692052264583
+current frame ID:71, current timestamp: 1692052264583
+Singel dynamic Cell frame ID:71,71 (854), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:71,71 (9017), decoding time 1 (decoder #2)
+My current_frameid is: 69, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264585
+fetch next chunk 72, at time: 1692052264585
+Current timestamp rendering at end: 1692052264585
+current frame ID:71, current timestamp: 1692052264587
+current frame ID:71, current timestamp: 1692052264587
+current frame ID:71, current timestamp: 1692052264587
+Singel dynamic Cell frame ID:71,71 (9382), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:71,71 (9703), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:71,71 (23512), decoding time 1 (decoder #1)
+current frame ID:71, current timestamp: 1692052264589
+Singel dynamic Cell frame ID:71,71 (25849), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:71,71 (29363), decoding time 1 (decoder #4)
+All current frame ID:71,71 (29363), All decoding time 39 (decoder #4), current timestamp: 1692052264590
+Added frame to buffer, current timestamp: 1692052264592
+My current_frameid is: 70, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264618
+fetch next chunk 73, at time: 1692052264618
+Current timestamp rendering at end: 1692052264619
+current frame ID:72, current timestamp: 1692052264641
+current frame ID:72, current timestamp: 1692052264641
+current frame ID:72, current timestamp: 1692052264641
+Singel dynamic Cell frame ID:72,72 (29363), decoding time 0 (decoder #1)
+current frame ID:72, current timestamp: 1692052264641
+Singel dynamic Cell frame ID:72,72 (29363), decoding time 0 (decoder #3)
+current frame ID:72, current timestamp: 1692052264641
+current frame ID:72, current timestamp: 1692052264641
+Singel dynamic Cell frame ID:72,72 (29368), decoding time 0 (decoder #1)
+current frame ID:72, current timestamp: 1692052264641
+Singel dynamic Cell frame ID:72,72 (29368), decoding time 0 (decoder #2)
+current frame ID:72, current timestamp: 1692052264641
+Singel dynamic Cell frame ID:72,72 (29368), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:72,72 (29514), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:72,72 (29599), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:72,72 (29784), decoding time 0 (decoder #1)
+All current frame ID:72,72 (0), All decoding time 51 (decoder #1), current timestamp: 1692052264641
+Added frame to buffer, current timestamp: 1692052264642
+My current_frameid is: 71, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264651
+fetch next chunk 74, at time: 1692052264651
+Current timestamp rendering at end: 1692052264651
+current frame ID:73, current timestamp: 1692052264674
+Singel dynamic Cell frame ID:73,73 (0), decoding time 0 (decoder #3)
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+current frame ID:73, current timestamp: 1692052264678
+Singel dynamic Cell frame ID:73,73 (811), decoding time 1 (decoder #4)
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+Singel dynamic Cell frame ID:73,73 (1093), decoding time 1 (decoder #3)
+current frame ID:74, current timestamp: 1692052264679
+current frame ID:74, current timestamp: 1692052264679
+Singel dynamic Cell frame ID:73,73 (1452), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:73,73 (4152), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:73,73 (7208), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:73,73 (15709), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:73,73 (29426), decoding time 2 (decoder #1)
+All current frame ID:73,73 (29426), All decoding time 39 (decoder #1), current timestamp: 1692052264680
+Added frame to buffer, current timestamp: 1692052264683
+Singel dynamic Cell frame ID:74,74 (29426), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:74,74 (29426), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:74,74 (29426), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:74,74 (29741), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:74,74 (29741), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:74,74 (29798), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:74,74 (29807), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:74,74 (30190), decoding time 0 (decoder #4)
+All current frame ID:74,74 (0), All decoding time 3 (decoder #4), current timestamp: 1692052264683
+My current_frameid is: 72, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264684
+fetch next chunk 75, at time: 1692052264684
+Added frame to buffer, current timestamp: 1692052264685
+Current timestamp rendering at end: 1692052264685
+My current_frameid is: 73, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264717
+fetch next chunk 76, at time: 1692052264717
+Current timestamp rendering at end: 1692052264718
+current frame ID:75, current timestamp: 1692052264744
+Singel dynamic Cell frame ID:75,75 (0), decoding time 0 (decoder #3)
+current frame ID:75, current timestamp: 1692052264748
+current frame ID:75, current timestamp: 1692052264748
+current frame ID:75, current timestamp: 1692052264748
+Singel dynamic Cell frame ID:75,75 (747), decoding time 0 (decoder #1)
+current frame ID:75, current timestamp: 1692052264748
+current frame ID:75, current timestamp: 1692052264748
+current frame ID:75, current timestamp: 1692052264748
+current frame ID:75, current timestamp: 1692052264748
+Singel dynamic Cell frame ID:75,75 (1015), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:75,75 (1323), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:75,75 (3573), decoding time 0 (decoder #4)
+My current_frameid is: 74, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052264750
+Singel dynamic Cell frame ID:75,75 (7025), decoding time 2 (decoder #3)
+fetch next chunk 77, at time: 1692052264750
+Singel dynamic Cell frame ID:75,75 (19771), decoding time 2 (decoder #1)
+Singel dynamic Cell frame ID:75,75 (29353), decoding time 3 (decoder #2)
+All current frame ID:75,75 (29353), All decoding time 68 (decoder #2), current timestamp: 1692052264751
+Current timestamp rendering at end: 1692052264751
+Added frame to buffer, current timestamp: 1692052264753
+current frame ID:76, current timestamp: 1692052264757
+Singel dynamic Cell frame ID:76,76 (29353), decoding time 0 (decoder #4)
+current frame ID:76, current timestamp: 1692052264757
+current frame ID:76, current timestamp: 1692052264757
+Singel dynamic Cell frame ID:76,76 (29353), decoding time 0 (decoder #3)
+current frame ID:76, current timestamp: 1692052264757
+current frame ID:76, current timestamp: 1692052264757
+current frame ID:76, current timestamp: 1692052264757
+Singel dynamic Cell frame ID:76,76 (29353), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:76,76 (29385), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:76,76 (29385), decoding time 0 (decoder #2)
+current frame ID:76, current timestamp: 1692052264757
+Singel dynamic Cell frame ID:76,76 (29671), decoding time 0 (decoder #3)
+current frame ID:76, current timestamp: 1692052264757
+Singel dynamic Cell frame ID:76,76 (29671), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:76,76 (30082), decoding time 0 (decoder #3)
+All current frame ID:76,76 (0), All decoding time 6 (decoder #3), current timestamp: 1692052264757
+Added frame to buffer, current timestamp: 1692052264759
+current frame ID:77, current timestamp: 1692052264778
+current frame ID:77, current timestamp: 1692052264778
+Singel dynamic Cell frame ID:77,77 (0), decoding time 0 (decoder #2)
+current frame ID:77, current timestamp: 1692052264778
+current frame ID:77, current timestamp: 1692052264778
+current frame ID:77, current timestamp: 1692052264778
+current frame ID:77, current timestamp: 1692052264778
+current frame ID:77, current timestamp: 1692052264778
+Singel dynamic Cell frame ID:77,77 (801), decoding time 0 (decoder #2)
+current frame ID:77, current timestamp: 1692052264778
+Singel dynamic Cell frame ID:77,77 (1113), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:77,77 (1397), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:77,77 (4428), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:77,77 (7137), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:77,77 (15520), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:77,77 (29326), decoding time 2 (decoder #3)
+All current frame ID:77,77 (29326), All decoding time 23 (decoder #3), current timestamp: 1692052264780
+Added frame to buffer, current timestamp: 1692052264781
+My current_frameid is: 75, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264783
+fetch next chunk 78, at time: 1692052264783
+Current timestamp rendering at end: 1692052264784
+current frame ID:78, current timestamp: 1692052264793
+current frame ID:78, current timestamp: 1692052264793
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #2)
+current frame ID:78, current timestamp: 1692052264793
+current frame ID:78, current timestamp: 1692052264793
+current frame ID:78, current timestamp: 1692052264793
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #3)
+current frame ID:78, current timestamp: 1692052264793
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #3)
+current frame ID:78, current timestamp: 1692052264793
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #4)
+current frame ID:78, current timestamp: 1692052264793
+Singel dynamic Cell frame ID:78,78 (29326), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:78,78 (29843), decoding time 0 (decoder #1)
+All current frame ID:78,78 (0), All decoding time 13 (decoder #1), current timestamp: 1692052264793
+Added frame to buffer, current timestamp: 1692052264794
+My current_frameid is: 76, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264816
+fetch next chunk 79, at time: 1692052264816
+Current timestamp rendering at end: 1692052264817
+My current_frameid is: 77, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264849
+fetch next chunk 80, at time: 1692052264849
+Current timestamp rendering at end: 1692052264850
+current frame ID:79, current timestamp: 1692052264876
+current frame ID:79, current timestamp: 1692052264876
+Singel dynamic Cell frame ID:79,79 (0), decoding time 0 (decoder #2)
+current frame ID:79, current timestamp: 1692052264876
+current frame ID:79, current timestamp: 1692052264876
+Singel dynamic Cell frame ID:79,79 (967), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:79,79 (13470), decoding time 2 (decoder #3)
+current frame ID:79, current timestamp: 1692052264879
+current frame ID:79, current timestamp: 1692052264879
+current frame ID:79, current timestamp: 1692052264879
+current frame ID:79, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+Singel dynamic Cell frame ID:79,79 (13864), decoding time 0 (decoder #2)
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+current frame ID:80, current timestamp: 1692052264879
+Singel dynamic Cell frame ID:79,79 (14333), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:79,79 (14823), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:79,79 (16867), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:79,79 (26178), decoding time 1 (decoder #1)
+All current frame ID:79,79 (26178), All decoding time 87 (decoder #1), current timestamp: 1692052264880
+Added frame to buffer, current timestamp: 1692052264881
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:80,80 (26807), decoding time 0 (decoder #1)
+All current frame ID:80,80 (0), All decoding time 1 (decoder #1), current timestamp: 1692052264881
+My current_frameid is: 78, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264882
+fetch next chunk 81, at time: 1692052264882
+Current timestamp rendering at end: 1692052264883
+Added frame to buffer, current timestamp: 1692052264883
+current frame ID:81, current timestamp: 1692052264897
+current frame ID:81, current timestamp: 1692052264897
+Singel dynamic Cell frame ID:81,81 (0), decoding time 0 (decoder #4)
+current frame ID:81, current timestamp: 1692052264897
+Singel dynamic Cell frame ID:81,81 (1032), decoding time 1 (decoder #4)
+current frame ID:81, current timestamp: 1692052264900
+current frame ID:81, current timestamp: 1692052264900
+current frame ID:81, current timestamp: 1692052264900
+current frame ID:81, current timestamp: 1692052264900
+current frame ID:81, current timestamp: 1692052264900
+Singel dynamic Cell frame ID:81,81 (1444), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:81,81 (1941), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:81,81 (2402), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:81,81 (4361), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:81,81 (13395), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:81,81 (25148), decoding time 1 (decoder #1)
+All current frame ID:81,81 (25148), All decoding time 20 (decoder #1), current timestamp: 1692052264901
+Added frame to buffer, current timestamp: 1692052264902
+My current_frameid is: 79, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052264915
+fetch next chunk 82, at time: 1692052264915
+Current timestamp rendering at end: 1692052264915
+My current_frameid is: 80, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264948
+fetch next chunk 83, at time: 1692052264948
+Current timestamp rendering at end: 1692052264949
+current frame ID:82, current timestamp: 1692052264963
+current frame ID:82, current timestamp: 1692052264963
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #4)
+current frame ID:82, current timestamp: 1692052264963
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #2)
+current frame ID:82, current timestamp: 1692052264963
+current frame ID:82, current timestamp: 1692052264963
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #1)
+current frame ID:82, current timestamp: 1692052264963
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #4)
+current frame ID:82, current timestamp: 1692052264963
+current frame ID:82, current timestamp: 1692052264963
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:82,82 (25148), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:82,82 (25877), decoding time 1 (decoder #3)
+All current frame ID:82,82 (0), All decoding time 63 (decoder #3), current timestamp: 1692052264964
+Added frame to buffer, current timestamp: 1692052264966
+current frame ID:83, current timestamp: 1692052264980
+current frame ID:83, current timestamp: 1692052264980
+Singel dynamic Cell frame ID:83,83 (0), decoding time 0 (decoder #1)
+My current_frameid is: 81, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052264981
+fetch next chunk 84, at time: 1692052264981
+Singel dynamic Cell frame ID:83,83 (1026), decoding time 1 (decoder #1)
+Current timestamp rendering at end: 1692052264981
+current frame ID:83, current timestamp: 1692052264983
+current frame ID:83, current timestamp: 1692052264983
+current frame ID:83, current timestamp: 1692052264983
+current frame ID:83, current timestamp: 1692052264983
+current frame ID:83, current timestamp: 1692052264983
+current frame ID:83, current timestamp: 1692052264983
+Singel dynamic Cell frame ID:83,83 (1428), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:83,83 (1912), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:83,83 (2503), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:83,83 (4340), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:83,83 (14493), decoding time 3 (decoder #3)
+Singel dynamic Cell frame ID:83,83 (26164), decoding time 3 (decoder #2)
+All current frame ID:83,83 (26164), All decoding time 22 (decoder #2), current timestamp: 1692052264986
+Added frame to buffer, current timestamp: 1692052264989
+current frame ID:84, current timestamp: 1692052264992
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #1)
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #1)
+current frame ID:84, current timestamp: 1692052264992
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #2)
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #2)
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #2)
+current frame ID:84, current timestamp: 1692052264992
+Singel dynamic Cell frame ID:84,84 (26164), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:84,84 (27121), decoding time 1 (decoder #3)
+All current frame ID:84,84 (0), All decoding time 7 (decoder #3), current timestamp: 1692052264993
+Added frame to buffer, current timestamp: 1692052264995
+My current_frameid is: 82, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265014
+fetch next chunk 85, at time: 1692052265014
+Current timestamp rendering at end: 1692052265015
+My current_frameid is: 83, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265047
+fetch next chunk 86, at time: 1692052265047
+Current timestamp rendering at end: 1692052265048
+My current_frameid is: 84, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052265080
+fetch next chunk 87, at time: 1692052265080
+Current timestamp rendering at end: 1692052265080
+current frame ID:85, current timestamp: 1692052265081
+current frame ID:85, current timestamp: 1692052265081
+Singel dynamic Cell frame ID:85,85 (0), decoding time 0 (decoder #4)
+current frame ID:85, current timestamp: 1692052265081
+current frame ID:85, current timestamp: 1692052265081
+Singel dynamic Cell frame ID:85,85 (996), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:85,85 (13184), decoding time 2 (decoder #1)
+current frame ID:85, current timestamp: 1692052265083
+current frame ID:85, current timestamp: 1692052265083
+current frame ID:85, current timestamp: 1692052265083
+current frame ID:85, current timestamp: 1692052265083
+current frame ID:86, current timestamp: 1692052265083
+current frame ID:86, current timestamp: 1692052265083
+current frame ID:86, current timestamp: 1692052265083
+Singel dynamic Cell frame ID:85,85 (13584), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:85,85 (14054), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:85,85 (14585), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:85,85 (16855), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:85,85 (26197), decoding time 1 (decoder #3)
+All current frame ID:85,85 (26197), All decoding time 91 (decoder #3), current timestamp: 1692052265084
+Added frame to buffer, current timestamp: 1692052265085
+Singel dynamic Cell frame ID:86,86 (26197), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #4)
+current frame ID:86, current timestamp: 1692052265087
+current frame ID:86, current timestamp: 1692052265087
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #3)
+current frame ID:86, current timestamp: 1692052265087
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #2)
+current frame ID:86, current timestamp: 1692052265087
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #2)
+current frame ID:86, current timestamp: 1692052265087
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:86,86 (27712), decoding time 0 (decoder #3)
+All current frame ID:86,86 (0), All decoding time 3 (decoder #3), current timestamp: 1692052265087
+Added frame to buffer, current timestamp: 1692052265089
+current frame ID:87, current timestamp: 1692052265094
+current frame ID:87, current timestamp: 1692052265094
+Singel dynamic Cell frame ID:87,87 (0), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:87,87 (406), decoding time 0 (decoder #2)
+current frame ID:87, current timestamp: 1692052265096
+current frame ID:87, current timestamp: 1692052265096
+current frame ID:87, current timestamp: 1692052265096
+current frame ID:87, current timestamp: 1692052265096
+current frame ID:87, current timestamp: 1692052265096
+current frame ID:87, current timestamp: 1692052265096
+Singel dynamic Cell frame ID:87,87 (529), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:87,87 (641), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:87,87 (1153), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:87,87 (3630), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:87,87 (15125), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:87,87 (20144), decoding time 1 (decoder #2)
+All current frame ID:87,87 (20144), All decoding time 13 (decoder #2), current timestamp: 1692052265100
+Added frame to buffer, current timestamp: 1692052265101
+My current_frameid is: 85, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265113
+fetch next chunk 88, at time: 1692052265113
+Current timestamp rendering at end: 1692052265113
+My current_frameid is: 86, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265146
+fetch next chunk 89, at time: 1692052265146
+Current timestamp rendering at end: 1692052265147
+current frame ID:88, current timestamp: 1692052265165
+current frame ID:88, current timestamp: 1692052265165
+current frame ID:88, current timestamp: 1692052265165
+current frame ID:88, current timestamp: 1692052265165
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #3)
+current frame ID:88, current timestamp: 1692052265165
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #2)
+current frame ID:88, current timestamp: 1692052265165
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #3)
+current frame ID:88, current timestamp: 1692052265165
+current frame ID:88, current timestamp: 1692052265165
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:88,88 (20144), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:88,88 (20347), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:88,88 (20589), decoding time 0 (decoder #4)
+All current frame ID:88,88 (0), All decoding time 65 (decoder #4), current timestamp: 1692052265165
+Added frame to buffer, current timestamp: 1692052265167
+My current_frameid is: 87, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265179
+fetch next chunk 90, at time: 1692052265179
+Current timestamp rendering at end: 1692052265180
+current frame ID:89, current timestamp: 1692052265181
+current frame ID:89, current timestamp: 1692052265181
+current frame ID:89, current timestamp: 1692052265181
+current frame ID:89, current timestamp: 1692052265181
+Singel dynamic Cell frame ID:89,89 (0), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:89,89 (375), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:89,89 (821), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:89,89 (15430), decoding time 2 (decoder #4)
+current frame ID:89, current timestamp: 1692052265184
+current frame ID:89, current timestamp: 1692052265184
+current frame ID:89, current timestamp: 1692052265184
+current frame ID:89, current timestamp: 1692052265184
+Singel dynamic Cell frame ID:89,89 (15530), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:89,89 (15645), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:89,89 (16912), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:89,89 (23401), decoding time 1 (decoder #1)
+All current frame ID:89,89 (23401), All decoding time 20 (decoder #1), current timestamp: 1692052265185
+Added frame to buffer, current timestamp: 1692052265186
+current frame ID:90, current timestamp: 1692052265190
+current frame ID:90, current timestamp: 1692052265190
+Singel dynamic Cell frame ID:90,90 (23401), decoding time 0 (decoder #2)
+current frame ID:90, current timestamp: 1692052265190
+Singel dynamic Cell frame ID:90,90 (23401), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:90,90 (23401), decoding time 0 (decoder #3)
+current frame ID:90, current timestamp: 1692052265190
+Singel dynamic Cell frame ID:90,90 (23654), decoding time 0 (decoder #1)
+current frame ID:90, current timestamp: 1692052265192
+current frame ID:90, current timestamp: 1692052265192
+current frame ID:90, current timestamp: 1692052265192
+current frame ID:90, current timestamp: 1692052265192
+Singel dynamic Cell frame ID:90,90 (23654), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:90,90 (23654), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:90,90 (23654), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:90,90 (23980), decoding time 0 (decoder #3)
+All current frame ID:90,90 (0), All decoding time 7 (decoder #3), current timestamp: 1692052265192
+Added frame to buffer, current timestamp: 1692052265194
+My current_frameid is: 88, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265212
+fetch next chunk 91, at time: 1692052265212
+Current timestamp rendering at end: 1692052265213
+My current_frameid is: 89, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265245
+fetch next chunk 92, at time: 1692052265245
+Current timestamp rendering at end: 1692052265245
+My current_frameid is: 90, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052265278
+fetch next chunk 93, at time: 1692052265278
+Current timestamp rendering at end: 1692052265278
+current frame ID:91, current timestamp: 1692052265280
+Singel dynamic Cell frame ID:91,91 (0), decoding time 0 (decoder #2)
+current frame ID:91, current timestamp: 1692052265283
+current frame ID:91, current timestamp: 1692052265283
+current frame ID:91, current timestamp: 1692052265283
+current frame ID:91, current timestamp: 1692052265283
+current frame ID:91, current timestamp: 1692052265283
+current frame ID:91, current timestamp: 1692052265283
+Singel dynamic Cell frame ID:91,91 (398), decoding time 0 (decoder #1)
+current frame ID:91, current timestamp: 1692052265283
+Singel dynamic Cell frame ID:91,91 (838), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:91,91 (947), decoding time 0 (decoder #1)
+current frame ID:92, current timestamp: 1692052265283
+Singel dynamic Cell frame ID:91,91 (1068), decoding time 0 (decoder #2)
+current frame ID:92, current timestamp: 1692052265283
+current frame ID:92, current timestamp: 1692052265283
+current frame ID:92, current timestamp: 1692052265283
+Singel dynamic Cell frame ID:91,91 (2391), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:91,91 (9327), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:91,91 (24862), decoding time 1 (decoder #3)
+All current frame ID:91,91 (24862), All decoding time 92 (decoder #3), current timestamp: 1692052265284
+current frame ID:92, current timestamp: 1692052265285
+current frame ID:92, current timestamp: 1692052265285
+current frame ID:92, current timestamp: 1692052265285
+current frame ID:92, current timestamp: 1692052265285
+Added frame to buffer, current timestamp: 1692052265286
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:92,92 (24862), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:92,92 (25146), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:92,92 (26011), decoding time 0 (decoder #1)
+All current frame ID:92,92 (0), All decoding time 2 (decoder #1), current timestamp: 1692052265286
+Added frame to buffer, current timestamp: 1692052265287
+current frame ID:93, current timestamp: 1692052265294
+current frame ID:93, current timestamp: 1692052265294
+Singel dynamic Cell frame ID:93,93 (0), decoding time 0 (decoder #4)
+current frame ID:93, current timestamp: 1692052265294
+current frame ID:93, current timestamp: 1692052265294
+Singel dynamic Cell frame ID:93,93 (404), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:93,93 (875), decoding time 0 (decoder #3)
+current frame ID:93, current timestamp: 1692052265296
+current frame ID:93, current timestamp: 1692052265296
+current frame ID:93, current timestamp: 1692052265296
+current frame ID:93, current timestamp: 1692052265296
+Singel dynamic Cell frame ID:93,93 (996), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:93,93 (1109), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:93,93 (2506), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:93,93 (10462), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:93,93 (25998), decoding time 2 (decoder #1)
+All current frame ID:93,93 (25998), All decoding time 12 (decoder #1), current timestamp: 1692052265298
+Added frame to buffer, current timestamp: 1692052265300
+My current_frameid is: 91, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265311
+fetch next chunk 94, at time: 1692052265311
+Current timestamp rendering at end: 1692052265312
+My current_frameid is: 92, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265344
+fetch next chunk 95, at time: 1692052265344
+Current timestamp rendering at end: 1692052265344
+current frame ID:94, current timestamp: 1692052265370
+current frame ID:94, current timestamp: 1692052265370
+current frame ID:94, current timestamp: 1692052265370
+Singel dynamic Cell frame ID:94,94 (25998), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:94,94 (25998), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:94,94 (25998), decoding time 0 (decoder #3)
+current frame ID:94, current timestamp: 1692052265370
+current frame ID:94, current timestamp: 1692052265370
+Singel dynamic Cell frame ID:94,94 (25998), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:94,94 (26276), decoding time 1 (decoder #1)
+current frame ID:94, current timestamp: 1692052265375
+current frame ID:94, current timestamp: 1692052265375
+Singel dynamic Cell frame ID:94,94 (26276), decoding time 0 (decoder #3)
+current frame ID:94, current timestamp: 1692052265375
+Singel dynamic Cell frame ID:94,94 (26276), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:94,94 (26791), decoding time 1 (decoder #2)
+All current frame ID:94,94 (0), All decoding time 78 (decoder #2), current timestamp: 1692052265376
+My current_frameid is: 93, highResPosFrameQueue size: 1, current timestamp start rendering: 1692052265377
+fetch next chunk 96, at time: 1692052265377
+Added frame to buffer, current timestamp: 1692052265377
+Current timestamp rendering at end: 1692052265378
+current frame ID:95, current timestamp: 1692052265387
+current frame ID:95, current timestamp: 1692052265387
+Singel dynamic Cell frame ID:95,95 (0), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:95,95 (368), decoding time 1 (decoder #4)
+current frame ID:95, current timestamp: 1692052265389
+current frame ID:95, current timestamp: 1692052265389
+Singel dynamic Cell frame ID:95,95 (1157), decoding time 1 (decoder #3)
+current frame ID:95, current timestamp: 1692052265391
+current frame ID:95, current timestamp: 1692052265391
+current frame ID:95, current timestamp: 1692052265391
+current frame ID:95, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+Singel dynamic Cell frame ID:95,95 (1271), decoding time 0 (decoder #1)
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+current frame ID:96, current timestamp: 1692052265391
+Singel dynamic Cell frame ID:95,95 (1367), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:95,95 (2963), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:95,95 (16074), decoding time 3 (decoder #2)
+Singel dynamic Cell frame ID:95,95 (21489), decoding time 1 (decoder #1)
+All current frame ID:95,95 (21489), All decoding time 16 (decoder #1), current timestamp: 1692052265392
+Added frame to buffer, current timestamp: 1692052265394
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:96,96 (21489), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:96,96 (21916), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:96,96 (22581), decoding time 0 (decoder #4)
+All current frame ID:96,96 (0), All decoding time 2 (decoder #4), current timestamp: 1692052265394
+Added frame to buffer, current timestamp: 1692052265395
+My current_frameid is: 94, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265410
+fetch next chunk 97, at time: 1692052265410
+Current timestamp rendering at end: 1692052265410
+My current_frameid is: 95, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265443
+fetch next chunk 98, at time: 1692052265443
+Current timestamp rendering at end: 1692052265444
+current frame ID:97, current timestamp: 1692052265464
+current frame ID:97, current timestamp: 1692052265464
+Singel dynamic Cell frame ID:97,97 (0), decoding time 0 (decoder #3)
+current frame ID:97, current timestamp: 1692052265464
+current frame ID:97, current timestamp: 1692052265464
+Singel dynamic Cell frame ID:97,97 (362), decoding time 0 (decoder #3)
+current frame ID:97, current timestamp: 1692052265464
+current frame ID:97, current timestamp: 1692052265464
+current frame ID:97, current timestamp: 1692052265464
+current frame ID:97, current timestamp: 1692052265464
+Singel dynamic Cell frame ID:97,97 (1280), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:97,97 (1368), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:97,97 (1483), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:97,97 (2603), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:97,97 (7919), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:97,97 (21388), decoding time 2 (decoder #4)
+All current frame ID:97,97 (21388), All decoding time 72 (decoder #4), current timestamp: 1692052265466
+Added frame to buffer, current timestamp: 1692052265467
+My current_frameid is: 96, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265476
+fetch next chunk 99, at time: 1692052265476
+current frame ID:98, current timestamp: 1692052265476
+current frame ID:98, current timestamp: 1692052265476
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #2)
+current frame ID:98, current timestamp: 1692052265476
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #1)
+current frame ID:98, current timestamp: 1692052265476
+current frame ID:98, current timestamp: 1692052265476
+current frame ID:98, current timestamp: 1692052265476
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #2)
+current frame ID:98, current timestamp: 1692052265476
+current frame ID:98, current timestamp: 1692052265476
+Singel dynamic Cell frame ID:98,98 (21388), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:98,98 (21908), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:98,98 (22425), decoding time 0 (decoder #1)
+All current frame ID:98,98 (0), All decoding time 10 (decoder #1), current timestamp: 1692052265476
+Current timestamp rendering at end: 1692052265477
+Added frame to buffer, current timestamp: 1692052265479
+current frame ID:99, current timestamp: 1692052265497
+current frame ID:99, current timestamp: 1692052265497
+Singel dynamic Cell frame ID:99,99 (0), decoding time 0 (decoder #3)
+current frame ID:99, current timestamp: 1692052265497
+Singel dynamic Cell frame ID:99,99 (384), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:99,99 (1562), decoding time 0 (decoder #4)
+current frame ID:99, current timestamp: 1692052265499
+current frame ID:99, current timestamp: 1692052265504
+current frame ID:99, current timestamp: 1692052265504
+current frame ID:99, current timestamp: 1692052265504
+current frame ID:99, current timestamp: 1692052265504
+Singel dynamic Cell frame ID:99,99 (1685), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:99,99 (1776), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:99,99 (2411), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:99,99 (6859), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:99,99 (20156), decoding time 2 (decoder #1)
+All current frame ID:99,99 (20156), All decoding time 30 (decoder #1), current timestamp: 1692052265506
+Added frame to buffer, current timestamp: 1692052265508
+My current_frameid is: 97, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265509
+fetch next chunk 100, at time: 1692052265509
+Current timestamp rendering at end: 1692052265510
+My current_frameid is: 98, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265542
+fetch next chunk 101, at time: 1692052265542
+Current timestamp rendering at end: 1692052265543
+current frame ID:100, current timestamp: 1692052265565
+current frame ID:100, current timestamp: 1692052265565
+current frame ID:100, current timestamp: 1692052265565
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #3)
+current frame ID:100, current timestamp: 1692052265565
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #4)
+current frame ID:100, current timestamp: 1692052265565
+current frame ID:100, current timestamp: 1692052265565
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #3)
+current frame ID:100, current timestamp: 1692052265565
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #3)
+current frame ID:100, current timestamp: 1692052265565
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:100,100 (20156), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:100,100 (20732), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:100,100 (21232), decoding time 1 (decoder #3)
+All current frame ID:100,100 (0), All decoding time 60 (decoder #3), current timestamp: 1692052265566
+Added frame to buffer, current timestamp: 1692052265567
+My current_frameid is: 99, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265575
+fetch next chunk 102, at time: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+Singel dynamic Cell frame ID:101,101 (0), decoding time 0 (decoder #2)
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+current frame ID:101, current timestamp: 1692052265575
+Singel dynamic Cell frame ID:101,101 (383), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:101,101 (508), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:101,101 (606), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:101,101 (926), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:101,101 (2370), decoding time 1 (decoder #4)
+Current timestamp rendering at end: 1692052265576
+Singel dynamic Cell frame ID:101,101 (6776), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:101,101 (19946), decoding time 2 (decoder #3)
+All current frame ID:101,101 (19946), All decoding time 11 (decoder #3), current timestamp: 1692052265577
+Added frame to buffer, current timestamp: 1692052265579
+current frame ID:102, current timestamp: 1692052265584
+current frame ID:102, current timestamp: 1692052265584
+current frame ID:102, current timestamp: 1692052265584
+current frame ID:102, current timestamp: 1692052265584
+current frame ID:102, current timestamp: 1692052265584
+Singel dynamic Cell frame ID:102,102 (19946), decoding time 0 (decoder #4)
+current frame ID:102, current timestamp: 1692052265584
+Singel dynamic Cell frame ID:102,102 (19946), decoding time 0 (decoder #1)
+current frame ID:102, current timestamp: 1692052265584
+Singel dynamic Cell frame ID:102,102 (19946), decoding time 0 (decoder #2)
+current frame ID:102, current timestamp: 1692052265584
+Singel dynamic Cell frame ID:102,102 (19946), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:102,102 (20198), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:102,102 (20475), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:102,102 (21192), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:102,102 (21601), decoding time 0 (decoder #1)
+All current frame ID:102,102 (0), All decoding time 8 (decoder #1), current timestamp: 1692052265585
+Added frame to buffer, current timestamp: 1692052265586
+My current_frameid is: 100, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265608
+fetch next chunk 103, at time: 1692052265608
+Current timestamp rendering at end: 1692052265608
+My current_frameid is: 101, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265641
+fetch next chunk 104, at time: 1692052265641
+Current timestamp rendering at end: 1692052265641
+current frame ID:103, current timestamp: 1692052265665
+Singel dynamic Cell frame ID:103,103 (0), decoding time 0 (decoder #4)
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+current frame ID:103, current timestamp: 1692052265670
+Singel dynamic Cell frame ID:103,103 (114), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:103,103 (482), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:103,103 (581), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:103,103 (1735), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:103,103 (4259), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:103,103 (8018), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:103,103 (19582), decoding time 1 (decoder #3)
+All current frame ID:103,103 (19582), All decoding time 86 (decoder #3), current timestamp: 1692052265671
+Added frame to buffer, current timestamp: 1692052265673
+My current_frameid is: 102, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265674
+fetch next chunk 105, at time: 1692052265674
+Current timestamp rendering at end: 1692052265675
+current frame ID:104, current timestamp: 1692052265681
+current frame ID:104, current timestamp: 1692052265681
+Singel dynamic Cell frame ID:104,104 (19582), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:104,104 (19582), decoding time 0 (decoder #2)
+current frame ID:104, current timestamp: 1692052265681
+current frame ID:104, current timestamp: 1692052265681
+current frame ID:104, current timestamp: 1692052265681
+current frame ID:104, current timestamp: 1692052265681
+Singel dynamic Cell frame ID:104,104 (19582), decoding time 0 (decoder #2)
+current frame ID:104, current timestamp: 1692052265681
+Singel dynamic Cell frame ID:104,104 (19582), decoding time 0 (decoder #2)
+current frame ID:104, current timestamp: 1692052265681
+Singel dynamic Cell frame ID:104,104 (19726), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:104,104 (20223), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:104,104 (20388), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:104,104 (21302), decoding time 0 (decoder #1)
+All current frame ID:104,104 (0), All decoding time 10 (decoder #1), current timestamp: 1692052265681
+Added frame to buffer, current timestamp: 1692052265682
+current frame ID:105, current timestamp: 1692052265696
+current frame ID:105, current timestamp: 1692052265696
+current frame ID:105, current timestamp: 1692052265696
+Singel dynamic Cell frame ID:105,105 (0), decoding time 0 (decoder #2)
+current frame ID:105, current timestamp: 1692052265696
+current frame ID:105, current timestamp: 1692052265696
+Singel dynamic Cell frame ID:105,105 (363), decoding time 0 (decoder #3)
+current frame ID:105, current timestamp: 1692052265696
+current frame ID:105, current timestamp: 1692052265696
+current frame ID:105, current timestamp: 1692052265696
+Singel dynamic Cell frame ID:105,105 (476), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:105,105 (570), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:105,105 (1734), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:105,105 (4151), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:105,105 (8074), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:105,105 (19743), decoding time 1 (decoder #1)
+All current frame ID:105,105 (19743), All decoding time 16 (decoder #1), current timestamp: 1692052265697
+Added frame to buffer, current timestamp: 1692052265698
+My current_frameid is: 103, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265707
+fetch next chunk 106, at time: 1692052265707
+Current timestamp rendering at end: 1692052265708
+current frame ID:106, current timestamp: 1692052265720
+current frame ID:106, current timestamp: 1692052265720
+Singel dynamic Cell frame ID:106,106 (19743), decoding time 0 (decoder #3)
+current frame ID:106, current timestamp: 1692052265720
+Singel dynamic Cell frame ID:106,106 (19743), decoding time 0 (decoder #4)
+current frame ID:106, current timestamp: 1692052265720
+Singel dynamic Cell frame ID:106,106 (19792), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:106,106 (20352), decoding time 0 (decoder #4)
+My current_frameid is: 104, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265740
+fetch next chunk 107, at time: 1692052265740
+Current timestamp rendering at end: 1692052265740
+current frame ID:106, current timestamp: 1692052265768
+current frame ID:106, current timestamp: 1692052265768
+current frame ID:106, current timestamp: 1692052265768
+current frame ID:106, current timestamp: 1692052265768
+Singel dynamic Cell frame ID:106,106 (20352), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:106,106 (20352), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:106,106 (20437), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:106,106 (21423), decoding time 0 (decoder #2)
+All current frame ID:106,106 (0), All decoding time 71 (decoder #2), current timestamp: 1692052265768
+Added frame to buffer, current timestamp: 1692052265770
+My current_frameid is: 105, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265773
+fetch next chunk 108, at time: 1692052265773
+Current timestamp rendering at end: 1692052265774
+current frame ID:107, current timestamp: 1692052265796
+Singel dynamic Cell frame ID:107,107 (0), decoding time 0 (decoder #3)
+current frame ID:107, current timestamp: 1692052265798
+current frame ID:107, current timestamp: 1692052265798
+current frame ID:107, current timestamp: 1692052265798
+current frame ID:107, current timestamp: 1692052265799
+current frame ID:107, current timestamp: 1692052265799
+current frame ID:107, current timestamp: 1692052265799
+current frame ID:107, current timestamp: 1692052265799
+Singel dynamic Cell frame ID:107,107 (368), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:107,107 (483), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:107,107 (579), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:107,107 (1970), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:107,107 (4327), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:107,107 (8447), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:107,107 (19941), decoding time 2 (decoder #2)
+All current frame ID:107,107 (19941), All decoding time 33 (decoder #2), current timestamp: 1692052265801
+Added frame to buffer, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+Singel dynamic Cell frame ID:108,108 (19941), decoding time 0 (decoder #2)
+current frame ID:108, current timestamp: 1692052265803
+current frame ID:108, current timestamp: 1692052265803
+Singel dynamic Cell frame ID:108,108 (19941), decoding time 0 (decoder #3)
+current frame ID:108, current timestamp: 1692052265803
+Singel dynamic Cell frame ID:108,108 (19941), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:108,108 (20021), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:108,108 (20021), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:108,108 (20208), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:108,108 (20677), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:108,108 (21671), decoding time 0 (decoder #4)
+All current frame ID:108,108 (0), All decoding time 3 (decoder #4), current timestamp: 1692052265804
+Added frame to buffer, current timestamp: 1692052265805
+My current_frameid is: 106, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265806
+fetch next chunk 109, at time: 1692052265806
+Current timestamp rendering at end: 1692052265806
+current frame ID:109, current timestamp: 1692052265820
+current frame ID:109, current timestamp: 1692052265820
+current frame ID:109, current timestamp: 1692052265820
+Singel dynamic Cell frame ID:109,109 (0), decoding time 0 (decoder #1)
+current frame ID:109, current timestamp: 1692052265820
+Singel dynamic Cell frame ID:109,109 (361), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:109,109 (2396), decoding time 1 (decoder #2)
+current frame ID:109, current timestamp: 1692052265822
+current frame ID:109, current timestamp: 1692052265822
+current frame ID:109, current timestamp: 1692052265822
+current frame ID:109, current timestamp: 1692052265822
+Singel dynamic Cell frame ID:109,109 (2493), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:109,109 (2606), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:109,109 (4512), decoding time 1 (decoder #2)
+Singel dynamic Cell frame ID:109,109 (8692), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:109,109 (19822), decoding time 2 (decoder #1)
+All current frame ID:109,109 (19822), All decoding time 20 (decoder #1), current timestamp: 1692052265824
+Added frame to buffer, current timestamp: 1692052265825
+My current_frameid is: 107, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265839
+fetch next chunk 110, at time: 1692052265839
+Current timestamp rendering at end: 1692052265840
+My current_frameid is: 108, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265872
+fetch next chunk 111, at time: 1692052265872
+Current timestamp rendering at end: 1692052265873
+current frame ID:110, current timestamp: 1692052265886
+current frame ID:110, current timestamp: 1692052265886
+Singel dynamic Cell frame ID:110,110 (19822), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:110,110 (19822), decoding time 0 (decoder #4)
+current frame ID:110, current timestamp: 1692052265886
+current frame ID:110, current timestamp: 1692052265886
+current frame ID:110, current timestamp: 1692052265886
+current frame ID:110, current timestamp: 1692052265886
+Singel dynamic Cell frame ID:110,110 (19867), decoding time 0 (decoder #3)
+current frame ID:110, current timestamp: 1692052265886
+Singel dynamic Cell frame ID:110,110 (19867), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:110,110 (19867), decoding time 0 (decoder #2)
+current frame ID:110, current timestamp: 1692052265886
+Singel dynamic Cell frame ID:110,110 (20276), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:110,110 (20529), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:110,110 (21558), decoding time 1 (decoder #1)
+All current frame ID:110,110 (0), All decoding time 63 (decoder #1), current timestamp: 1692052265887
+Added frame to buffer, current timestamp: 1692052265888
+current frame ID:111, current timestamp: 1692052265900
+current frame ID:111, current timestamp: 1692052265900
+Singel dynamic Cell frame ID:111,111 (0), decoding time 0 (decoder #2)
+current frame ID:111, current timestamp: 1692052265900
+Singel dynamic Cell frame ID:111,111 (382), decoding time 0 (decoder #2)
+current frame ID:111, current timestamp: 1692052265904
+current frame ID:111, current timestamp: 1692052265904
+current frame ID:111, current timestamp: 1692052265904
+current frame ID:111, current timestamp: 1692052265904
+current frame ID:111, current timestamp: 1692052265904
+Singel dynamic Cell frame ID:111,111 (485), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:111,111 (627), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:111,111 (1538), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:111,111 (2191), decoding time 0 (decoder #2)
+My current_frameid is: 109, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265905
+fetch next chunk 112, at time: 1692052265905
+Current timestamp rendering at end: 1692052265905
+Singel dynamic Cell frame ID:111,111 (15663), decoding time 2 (decoder #1)
+Singel dynamic Cell frame ID:111,111 (20542), decoding time 1 (decoder #3)
+All current frame ID:111,111 (20542), All decoding time 20 (decoder #3), current timestamp: 1692052265907
+Added frame to buffer, current timestamp: 1692052265909
+current frame ID:112, current timestamp: 1692052265914
+current frame ID:112, current timestamp: 1692052265914
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #4)
+current frame ID:112, current timestamp: 1692052265914
+current frame ID:112, current timestamp: 1692052265914
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #1)
+current frame ID:112, current timestamp: 1692052265914
+current frame ID:112, current timestamp: 1692052265914
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #4)
+current frame ID:112, current timestamp: 1692052265914
+current frame ID:112, current timestamp: 1692052265914
+Singel dynamic Cell frame ID:112,112 (20542), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:112,112 (21014), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:112,112 (21533), decoding time 0 (decoder #3)
+All current frame ID:112,112 (0), All decoding time 7 (decoder #3), current timestamp: 1692052265914
+Added frame to buffer, current timestamp: 1692052265916
+My current_frameid is: 110, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052265938
+fetch next chunk 113, at time: 1692052265938
+Current timestamp rendering at end: 1692052265938
+My current_frameid is: 111, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052265971
+fetch next chunk 114, at time: 1692052265971
+Current timestamp rendering at end: 1692052265972
+current frame ID:113, current timestamp: 1692052265988
+Singel dynamic Cell frame ID:113,113 (0), decoding time 0 (decoder #4)
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+current frame ID:113, current timestamp: 1692052265991
+Singel dynamic Cell frame ID:113,113 (813), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:113,113 (1078), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:113,113 (1334), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:113,113 (2207), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:113,113 (6307), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:113,113 (13998), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:113,113 (32853), decoding time 3 (decoder #3)
+All current frame ID:113,113 (32853), All decoding time 80 (decoder #3), current timestamp: 1692052265994
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+current frame ID:114, current timestamp: 1692052265995
+Added frame to buffer, current timestamp: 1692052265995
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:114,114 (32853), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:114,114 (33321), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:114,114 (34698), decoding time 0 (decoder #1)
+All current frame ID:114,114 (0), All decoding time 1 (decoder #1), current timestamp: 1692052265995
+Added frame to buffer, current timestamp: 1692052265997
+My current_frameid is: 112, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052266004
+fetch next chunk 115, at time: 1692052266004
+Current timestamp rendering at end: 1692052266004
+current frame ID:115, current timestamp: 1692052266022
+current frame ID:115, current timestamp: 1692052266022
+Singel dynamic Cell frame ID:115,115 (0), decoding time 0 (decoder #4)
+current frame ID:115, current timestamp: 1692052266022
+current frame ID:115, current timestamp: 1692052266022
+Singel dynamic Cell frame ID:115,115 (732), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:115,115 (5166), decoding time 1 (decoder #3)
+current frame ID:115, current timestamp: 1692052266024
+current frame ID:115, current timestamp: 1692052266024
+current frame ID:115, current timestamp: 1692052266024
+current frame ID:115, current timestamp: 1692052266024
+Singel dynamic Cell frame ID:115,115 (5424), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:115,115 (5657), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:115,115 (6478), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:115,115 (13414), decoding time 1 (decoder #4)
+Singel dynamic Cell frame ID:115,115 (31666), decoding time 2 (decoder #1)
+All current frame ID:115,115 (31666), All decoding time 31 (decoder #1), current timestamp: 1692052266026
+Added frame to buffer, current timestamp: 1692052266027
+My current_frameid is: 113, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052266037
+fetch next chunk 116, at time: 1692052266037
+Current timestamp rendering at end: 1692052266037
+My current_frameid is: 114, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052266070
+fetch next chunk 117, at time: 1692052266070
+Current timestamp rendering at end: 1692052266070
+current frame ID:116, current timestamp: 1692052266091
+current frame ID:116, current timestamp: 1692052266091
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #3)
+current frame ID:116, current timestamp: 1692052266091
+current frame ID:116, current timestamp: 1692052266091
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #4)
+current frame ID:116, current timestamp: 1692052266091
+current frame ID:116, current timestamp: 1692052266091
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #3)
+current frame ID:116, current timestamp: 1692052266091
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #2)
+current frame ID:116, current timestamp: 1692052266091
+Singel dynamic Cell frame ID:116,116 (31666), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:116,116 (32383), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:116,116 (33212), decoding time 0 (decoder #4)
+All current frame ID:116,116 (0), All decoding time 65 (decoder #4), current timestamp: 1692052266091
+Added frame to buffer, current timestamp: 1692052266093
+My current_frameid is: 115, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052266103
+fetch next chunk 118, at time: 1692052266103
+Current timestamp rendering at end: 1692052266104
+current frame ID:117, current timestamp: 1692052266110
+current frame ID:117, current timestamp: 1692052266110
+Singel dynamic Cell frame ID:117,117 (0), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:117,117 (749), decoding time 0 (decoder #2)
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:117, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+Singel dynamic Cell frame ID:117,117 (972), decoding time 0 (decoder #4)
+current frame ID:118, current timestamp: 1692052266114
+Singel dynamic Cell frame ID:117,117 (1234), decoding time 0 (decoder #1)
+current frame ID:118, current timestamp: 1692052266114
+current frame ID:118, current timestamp: 1692052266114
+Singel dynamic Cell frame ID:117,117 (2215), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:117,117 (7564), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:117,117 (15163), decoding time 1 (decoder #1)
+Singel dynamic Cell frame ID:117,117 (32468), decoding time 2 (decoder #2)
+All current frame ID:117,117 (32468), All decoding time 25 (decoder #2), current timestamp: 1692052266116
+Added frame to buffer, current timestamp: 1692052266118
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #1)
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:118,118 (32468), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:118,118 (33295), decoding time 0 (decoder #2)
+Singel dynamic Cell frame ID:118,118 (34085), decoding time 0 (decoder #1)
+All current frame ID:118,118 (0), All decoding time 2 (decoder #1), current timestamp: 1692052266118
+Added frame to buffer, current timestamp: 1692052266120
+My current_frameid is: 116, highResPosFrameQueue size: 3, current timestamp start rendering: 1692052266136
+fetch next chunk 119, at time: 1692052266136
+Current timestamp rendering at end: 1692052266136
+Stall ends. Frame = 1159725056, duration = 1692052266169, total duration = 1692052352.000000
+My current_frameid is: 1159725057, highResPosFrameQueue size: 2, current timestamp start rendering: 1692052266169
+current frame ID:119, current timestamp: 1692052266211
+Singel dynamic Cell frame ID:119,119 (0), decoding time 0 (decoder #4)
+current frame ID:119, current timestamp: 1692052266213
+current frame ID:119, current timestamp: 1692052266213
+current frame ID:119, current timestamp: 1692052266213
+current frame ID:119, current timestamp: 1692052266214
+current frame ID:119, current timestamp: 1692052266214
+current frame ID:119, current timestamp: 1692052266214
+current frame ID:119, current timestamp: 1692052266214
+Singel dynamic Cell frame ID:119,119 (312), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:119,119 (1159), decoding time 1 (decoder #3)
+Singel dynamic Cell frame ID:119,119 (1421), decoding time 0 (decoder #4)
+Singel dynamic Cell frame ID:119,119 (2956), decoding time 0 (decoder #3)
+Singel dynamic Cell frame ID:119,119 (10008), decoding time 2 (decoder #2)
+Singel dynamic Cell frame ID:119,119 (19327), decoding time 2 (decoder #4)
+Singel dynamic Cell frame ID:119,119 (34454), decoding time 2 (decoder #1)
+All current frame ID:119,119 (34454), All decoding time 98 (decoder #1), current timestamp: 1692052266216
+Added frame to buffer, current timestamp: 1692052266218

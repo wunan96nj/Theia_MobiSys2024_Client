@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NWDraco-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\NWDraco.cpp.obj"
+"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\Default.rc2.res"
+/OUT:"F:\Spring2023\Theia_system_0803_fromNSDI\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_NWDraco

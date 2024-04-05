@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </data>
+  <data name="version">
+    <value>2.0</value>
+  </data>
+  <data name="reader">
+    <value>Tools.DotNETCommon.UEResXReader, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="writer">
+    <value>Tools.DotNETCommon.UEResXWriter, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="PackageDisplayName" xml:space="preserve">
+    <value>TheiaLootAuto</value>
+  </data>
+  <data name="PublisherDisplayName" xml:space="preserve">
+    <value>Nan</value>
+  </data>
+  <data name="PackageDescription" xml:space="preserve">
+    <value>TheiaLootAuto</value>
+  </data>
+  <data name="AppDisplayName" xml:space="preserve">
+    <value>TheiaLootAuto</value>
+  </data>
+  <data name="AppDescription" xml:space="preserve">
+    <value>TheiaLootAuto</value>
+  </data>
+</root>

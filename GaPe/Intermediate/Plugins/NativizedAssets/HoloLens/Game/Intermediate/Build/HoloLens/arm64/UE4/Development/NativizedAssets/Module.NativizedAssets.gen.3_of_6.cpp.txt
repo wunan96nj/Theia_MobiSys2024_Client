@@ -1,0 +1,97 @@
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Development\NativizedAssets\Definitions.NativizedAssets.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_NearMenu3x3__pf3499602411.gen.cpp
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_NearMenu3x3__pf3499602411.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets\Public\BP_NearMenuBase__pf3547134495.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Controls/UxtToggleStateComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtToggleStateComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Interactions/UxtGrabTargetComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtFarHandler.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarHandler.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtFarTarget.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarTarget.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtGrabHandler.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabHandler.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtGrabTarget.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabTarget.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtManipulatorComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions\Constraints/UxtTransformConstraint.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtInteractionMode.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtInteractionMode.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtManipulationFlags.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtManipulationFlags.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTransformConstraint.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtManipulatorComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtGrabTargetComponent.generated.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_NearMenuBase__pf3547134495.generated.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_NearMenu3x3__pf3499602411.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_NearMenu4x1__pf3499602411.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_NearMenu4x1__pf3499602411.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_NearMenu4x1__pf3499602411.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_NearMenu4x2__pf3499602411.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_NearMenu4x2__pf3499602411.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_NearMenu4x2__pf3499602411.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_NearMenuBase__pf3547134495.gen.cpp
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_Octahedron__pf1048552890.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_Octahedron__pf1048552890.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_Octahedron__pf1048552890.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_OtherUMGControls__pf2571737276.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_OtherUMGControls__pf2571737276.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_OtherUMGControls__pf2571737276.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_PageByButton__pf3034317442.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_PageByButton__pf3034317442.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Controls/UxtScrollingObjectCollection.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls\UxtBackPlateComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBackPlateComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtBaseObjectCollection.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtCollectionObject.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtCollectionObject.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBaseObjectCollection.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtPokeHandler.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPokeHandler.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Interactions/UxtPokeTarget.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPokeTarget.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtScrollingObjectCollection.generated.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Controls/UxtPressableButtonActor.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtBasePressableButtonActor.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtBasePressableButtonActor.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtButtonBrush.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtButtonBrush.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtIconBrush.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtTextBrush.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTextBrush.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtIconBrush.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPressableButtonActor.generated.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_PageByButton__pf3034317442.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_Platonic__pf1924036036.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_Platonic__pf1924036036.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Controls/UxtPinchSliderActor.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/TimelineComponent.h
+D:\Epic Games\UE_4.26\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\Engine\TimelineComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtPinchSliderComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Source\UXTools\Public\Controls/UxtUIElementComponent.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtUIElementComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPinchSliderComponent.generated.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPinchSliderActor.generated.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_Platonic__pf1924036036.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_ScrollingObjectCollection__pf3034317442.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_ScrollingObjectCollection__pf3034317442.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime/CoreUObject/Public/UObject/NoExportTypes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_ScrollingObjectCollection__pf3034317442.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_ScrollingObjectCollection_SortByButtonLabel__pf3034317442.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_ScrollingObjectCollection_SortByButtonLabel__pf3034317442.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_ScrollingObjectCollection_SortByButtonLabel__pf3034317442.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_SelectorButton__pf1172471173.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_SelectorButton__pf1172471173.h
+D:\Epic Games\UE_4.26\Engine\Source\../Plugins/Marketplace/UXTools/Source/UXTools/Public/Controls/UxtPressableToggleButtonActor.h
+D:\Epic Games\UE_4.26\Engine\Plugins\Marketplace\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPressableToggleButtonActor.generated.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_SelectorButton__pf1172471173.generated.h
+G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Intermediate/Build/HoloLens/arm64/UE4/Inc/NativizedAssets/BP_SelectorMenu__pf1172471173.gen.cpp
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Source\NativizedAssets/Public/BP_SelectorMenu__pf1172471173.h
+G:\Spring2023\Theia_system\GaPe\Intermediate\Plugins\NativizedAssets\HoloLens\Game\Intermediate\Build\HoloLens\arm64\UE4\Inc\NativizedAssets\BP_SelectorMenu__pf1172471173.generated.h

@@ -1,0 +1,2 @@
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\Definitions.NWDraco.h
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Source\NWDraco\Public\NWDraco.h

@@ -1,0 +1,675 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/XRSimulation'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/UXTools'",
+		"Package'/Script/AugmentedReality'",
+		"Package'/Script/UMG'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/UXToolsExamples'",
+		"Package'/Script/MRMesh'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/AudioMixer'",
+		"Package'/Script/ProceduralMeshComponent'"
+	],
+	"convertedAssets":
+	{
+		"/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraSystemInactiveMode.ENiagaraSystemInactiveMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraSystemInactiveMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraSystemInactiveMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraChannelCorrelation.ENiagaraChannelCorrelation",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraChannelCorrelation__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraChannelCorrelation__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_UVFlippingMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_UVFlippingMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_SpriteRotationMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_SpriteRotationMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_SizeScaleMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_SizeScaleMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_PositionInitializationMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_PositionInitializationMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_MassInitializationMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_MassInitializationMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_LifetimeMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_LifetimeMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_ColorInitializationMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_ColorInitializationMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraCoordinateSpace__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraCoordinateSpace__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraRandomnessMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraRandomnessMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraRandomnessEvaluation.ENiagaraRandomnessEvaluation",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraRandomnessEvaluation__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraRandomnessEvaluation__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraInactiveMode.ENiagaraInactiveMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraInactiveMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraInactiveMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraExecutionStateManagement.ENiagaraExecutionStateManagement",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraExecutionStateManagement__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraExecutionStateManagement__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited.ENiagaraEmitterScalabilityMode_Limited",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraEmitterScalabilityMode_Limited__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraEmitterScalabilityMode_Limited__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagaraEmitterLifeCycleMode.ENiagaraEmitterLifeCycleMode",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagaraEmitterLifeCycleMode__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagaraEmitterLifeCycleMode__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_InfiniteLoopDuration.ENiagara_InfiniteLoopDuration",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_InfiniteLoopDuration__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_InfiniteLoopDuration__pf2855420827.cpp"
+		},
+		"/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Niagara/Enums/ENiagara_EmitterStateOptions.ENiagara_EmitterStateOptions",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ENiagara_EmitterStateOptions__pf2855420827.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ENiagara_EmitterStateOptions__pf2855420827.cpp"
+		},
+		"/UXTools/XRSimulation/HandAnimBlueprint.HandAnimBlueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/UXTools/XRSimulation/HandAnimBlueprint.HandAnimBlueprint_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/HandAnimBlueprint__pf1627489016.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/HandAnimBlueprint__pf1627489016.cpp"
+		},
+		"/UXToolsExamples/Common/GameMode/MRPawn.MRPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/GameMode/MRPawn.MRPawn_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/MRPawn__pf2645888192.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/MRPawn__pf2645888192.cpp"
+		},
+		"/UXToolsExamples/Common/GameMode/MRGameMode.MRGameMode_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/GameMode/MRGameMode.MRGameMode_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/MRGameMode__pf2645888192.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/MRGameMode__pf2645888192.cpp"
+		},
+		"/UXToolsExamples/Widget/Blueprints/Widget_TextInputWidget.Widget_TextInputWidget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Widget/Blueprints/Widget_TextInputWidget.Widget_TextInputWidget_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/Widget_TextInputWidget__pf2571737276.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/Widget_TextInputWidget__pf2571737276.cpp"
+		},
+		"/UXToolsExamples/Widget/Blueprints/BP_TextInput.BP_TextInput_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Widget/Blueprints/BP_TextInput.BP_TextInput_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TextInput__pf2571737276.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TextInput__pf2571737276.cpp"
+		},
+		"/UXToolsExamples/Widget/Blueprints/Widget_OtherUMGControls.Widget_OtherUMGControls_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Widget/Blueprints/Widget_OtherUMGControls.Widget_OtherUMGControls_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/Widget_OtherUMGControls__pf2571737276.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/Widget_OtherUMGControls__pf2571737276.cpp"
+		},
+		"/UXToolsExamples/Widget/Blueprints/BP_OtherUMGControls.BP_OtherUMGControls_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Widget/Blueprints/BP_OtherUMGControls.BP_OtherUMGControls_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_OtherUMGControls__pf2571737276.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_OtherUMGControls__pf2571737276.cpp"
+		},
+		"/UXToolsExamples/Common/ToggleFeaturesPanel/BP_NearMenuBase.BP_NearMenuBase_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/ToggleFeaturesPanel/BP_NearMenuBase.BP_NearMenuBase_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenuBase__pf3547134495.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenuBase__pf3547134495.cpp"
+		},
+		"/UXToolsExamples/Common/ToggleFeaturesPanel/BP_ToggleFeaturesPanel.BP_ToggleFeaturesPanel_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/ToggleFeaturesPanel/BP_ToggleFeaturesPanel.BP_ToggleFeaturesPanel_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_ToggleFeaturesPanel__pf3547134495.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_ToggleFeaturesPanel__pf3547134495.cpp"
+		},
+		"/UXToolsExamples/Common/DescriptionPanel/BP_DescriptionPanel.BP_DescriptionPanel_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/DescriptionPanel/BP_DescriptionPanel.BP_DescriptionPanel_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_DescriptionPanel__pf3670844252.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_DescriptionPanel__pf3670844252.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_UpperDockingTunnelTooltip.W_UpperDockingTunnelTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_UpperDockingTunnelTooltip.W_UpperDockingTunnelTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_UpperDockingTunnelTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_UpperDockingTunnelTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_SplineTooltip.W_SplineTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_SplineTooltip.W_SplineTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_SplineTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_SplineTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_OuterCoreTooltip.W_OuterCoreTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_OuterCoreTooltip.W_OuterCoreTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_OuterCoreTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_OuterCoreTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_NewTooltip.W_NewTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_NewTooltip.W_NewTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_NewTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_NewTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_MantleTooltip.W_MantleTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_MantleTooltip.W_MantleTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_MantleTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_MantleTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_ManipulatorTooltip.W_ManipulatorTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_ManipulatorTooltip.W_ManipulatorTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_ManipulatorTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_ManipulatorTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_LandingGearTooltip.W_LandingGearTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_LandingGearTooltip.W_LandingGearTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_LandingGearTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_LandingGearTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_InnerCoreTooltip.W_InnerCoreTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_InnerCoreTooltip.W_InnerCoreTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_InnerCoreTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_InnerCoreTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_ForwardEntranceHatchTooltip.W_ForwardEntranceHatchTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_ForwardEntranceHatchTooltip.W_ForwardEntranceHatchTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_ForwardEntranceHatchTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_ForwardEntranceHatchTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_EngineSkirtTooltip.W_EngineSkirtTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_EngineSkirtTooltip.W_EngineSkirtTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_EngineSkirtTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_EngineSkirtTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_CrustTooltip.W_CrustTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_CrustTooltip.W_CrustTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_CrustTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_CrustTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Blueprints/BP_Lander_Tooltip.BP_Lander_Tooltip_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Blueprints/BP_Lander_Tooltip.BP_Lander_Tooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Lander_Tooltip__pf3131497522.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Lander_Tooltip__pf3131497522.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/Octahedron/BP_Octahedron.BP_Octahedron_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/Octahedron/BP_Octahedron.BP_Octahedron_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Octahedron__pf1048552890.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Octahedron__pf1048552890.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/Lander/BP_LanderStatic.BP_LanderStatic_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/Lander/BP_LanderStatic.BP_LanderStatic_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_LanderStatic__pf4200410605.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_LanderStatic__pf4200410605.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/Icosahedron/BP_Icosahedron.BP_Icosahedron_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/Icosahedron/BP_Icosahedron.BP_Icosahedron_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Icosahedron__pf2056527485.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Icosahedron__pf2056527485.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/EarthCore/BP_EarthCore.BP_EarthCore_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/EarthCore/BP_EarthCore.BP_EarthCore_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_EarthCore__pf793232900.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_EarthCore__pf793232900.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_DynamicText.W_DynamicText_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_DynamicText.W_DynamicText_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_DynamicText__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_DynamicText__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/TapToPlace/Blueprints/MRGameModeTapToPlace.MRGameModeTapToPlace_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/TapToPlace/Blueprints/MRGameModeTapToPlace.MRGameModeTapToPlace_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/MRGameModeTapToPlace__pf3452490149.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/MRGameModeTapToPlace__pf3452490149.cpp"
+		},
+		"/UXToolsExamples/Common/ToggleFeaturesPanel/BP_ToggleFeaturesPanelWithTrackedGeom.BP_ToggleFeaturesPanelWithTrackedGeom_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/ToggleFeaturesPanel/BP_ToggleFeaturesPanelWithTrackedGeom.BP_ToggleFeaturesPanelWithTrackedGeom_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_ToggleFeaturesPanelWithTrackedGeom__pf3547134495.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_ToggleFeaturesPanelWithTrackedGeom__pf3547134495.cpp"
+		},
+		"/UXToolsExamples/SurfaceMagnetism/Blueprints/MRGameModeSurfaceMagnetism.MRGameModeSurfaceMagnetism_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/SurfaceMagnetism/Blueprints/MRGameModeSurfaceMagnetism.MRGameModeSurfaceMagnetism_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/MRGameModeSurfaceMagnetism__pf297391046.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/MRGameModeSurfaceMagnetism__pf297391046.cpp"
+		},
+		"/UXToolsExamples/SurfaceMagnetism/Blueprints/BP_SurfaceMagnetism.BP_SurfaceMagnetism_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/SurfaceMagnetism/Blueprints/BP_SurfaceMagnetism.BP_SurfaceMagnetism_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_SurfaceMagnetism__pf297391046.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_SurfaceMagnetism__pf297391046.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu2x1.BP_NearMenu2x1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu2x1.BP_NearMenu2x1_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu2x1__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu2x1__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/PlatonicSolid/BP_Platonic.BP_Platonic_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/PlatonicSolid/BP_Platonic.BP_Platonic_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Platonic__pf1924036036.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Platonic__pf1924036036.cpp"
+		},
+		"/UXToolsExamples/Common/Assets/Lander/BP_Lander.BP_Lander_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Common/Assets/Lander/BP_Lander.BP_Lander_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Lander__pf4200410605.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Lander__pf4200410605.cpp"
+		},
+		"/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_ScrollingObjectCollection_SortByButtonLabel.BP_ScrollingObjectCollection_SortByButtonLabel_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_ScrollingObjectCollection_SortByButtonLabel.BP_ScrollingObjectCollection_SortByButtonLabel_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_ScrollingObjectCollection_SortByButtonLabel__pf3034317442.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_ScrollingObjectCollection_SortByButtonLabel__pf3034317442.cpp"
+		},
+		"/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_ScrollingObjectCollection.BP_ScrollingObjectCollection_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_ScrollingObjectCollection.BP_ScrollingObjectCollection_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_ScrollingObjectCollection__pf3034317442.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_ScrollingObjectCollection__pf3034317442.cpp"
+		},
+		"/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_PageByButton.BP_PageByButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_PageByButton.BP_PageByButton_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_PageByButton__pf3034317442.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_PageByButton__pf3034317442.cpp"
+		},
+		"/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_AddDynamic.BP_AddDynamic_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/ScrollingObjectCollection/Blueprints/BP_AddDynamic.BP_AddDynamic_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_AddDynamic__pf3034317442.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_AddDynamic__pf3034317442.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu4x2.BP_NearMenu4x2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu4x2.BP_NearMenu4x2_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu4x2__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu4x2__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu4x1.BP_NearMenu4x1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu4x1.BP_NearMenu4x1_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu4x1__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu4x1__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x3.BP_NearMenu3x3_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x3.BP_NearMenu3x3_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu3x3__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu3x3__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x2.BP_NearMenu3x2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x2.BP_NearMenu3x2_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu3x2__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu3x2__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x1.BP_NearMenu3x1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/NearMenu/Blueprints/BP_NearMenu3x1.BP_NearMenu3x1_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_NearMenu3x1__pf3499602411.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_NearMenu3x1__pf3499602411.cpp"
+		},
+		"/UXToolsExamples/Manipulator/Blueprints/BP_CheeseManipulator.BP_CheeseManipulator_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Manipulator/Blueprints/BP_CheeseManipulator.BP_CheeseManipulator_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_CheeseManipulator__pf3384542095.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_CheeseManipulator__pf3384542095.cpp"
+		},
+		"/UXToolsExamples/Loader/Blueprints/BP_LoaderButton.BP_LoaderButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Loader/Blueprints/BP_LoaderButton.BP_LoaderButton_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_LoaderButton__pf1183508669.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_LoaderButton__pf1183508669.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_SmallHandMenu.BP_SmallHandMenu_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_SmallHandMenu.BP_SmallHandMenu_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_SmallHandMenu__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_SmallHandMenu__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_MediumHandMenu.BP_MediumHandMenu_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_MediumHandMenu.BP_MediumHandMenu_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_MediumHandMenu__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_MediumHandMenu__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_HandMenuSlider.BP_HandMenuSlider_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_HandMenuSlider.BP_HandMenuSlider_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_HandMenuSlider__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_HandMenuSlider__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_LargeHandMenu_LockOnGrab.BP_LargeHandMenu_LockOnGrab_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_LargeHandMenu_LockOnGrab.BP_LargeHandMenu_LockOnGrab_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_LargeHandMenu_LockOnGrab__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_LargeHandMenu_LockOnGrab__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_LargeHandMenu_LockOnDrop.BP_LargeHandMenu_LockOnDrop_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_LargeHandMenu_LockOnDrop.BP_LargeHandMenu_LockOnDrop_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_LargeHandMenu_LockOnDrop__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_LargeHandMenu_LockOnDrop__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_SelectorButton.BP_SelectorButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_SelectorButton.BP_SelectorButton_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_SelectorButton__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_SelectorButton__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/HandMenu/Blueprints/BP_SelectorMenu.BP_SelectorMenu_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/HandMenu/Blueprints/BP_SelectorMenu.BP_SelectorMenu_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_SelectorMenu__pf1172471173.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_SelectorMenu__pf1172471173.cpp"
+		},
+		"/UXToolsExamples/Follow/Blueprints/BP_FollowComponentDemoActor.BP_FollowComponentDemoActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Follow/Blueprints/BP_FollowComponentDemoActor.BP_FollowComponentDemoActor_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_FollowComponentDemoActor__pf192799414.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_FollowComponentDemoActor__pf192799414.cpp"
+		},
+		"/UXToolsExamples/Follow/Blueprints/ComponentWorkaround.ComponentWorkaround_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Follow/Blueprints/ComponentWorkaround.ComponentWorkaround_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/ComponentWorkaround__pf192799414.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/ComponentWorkaround__pf192799414.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_TabNumpad.BP_TabNumpad_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_TabNumpad.BP_TabNumpad_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TabNumpad__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TabNumpad__pf3087176809.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_TabChecklist.BP_TabChecklist_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_TabChecklist.BP_TabChecklist_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TabChecklist__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TabChecklist__pf3087176809.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_TabCalender.BP_TabCalender_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_TabCalender.BP_TabCalender_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TabCalender__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TabCalender__pf3087176809.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_TabMusic.BP_TabMusic_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_TabMusic.BP_TabMusic_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TabMusic__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TabMusic__pf3087176809.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_TabbedMenu.BP_TabbedMenu_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_TabbedMenu.BP_TabbedMenu_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_TabbedMenu__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_TabbedMenu__pf3087176809.cpp"
+		},
+		"/UXToolsExamples/Button/Blueprints/BP_ClickIndicator.BP_ClickIndicator_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Button/Blueprints/BP_ClickIndicator.BP_ClickIndicator_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_ClickIndicator__pf3087176809.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_ClickIndicator__pf3087176809.cpp"
+		},
+		"/UXTools/Buttons/Simple/BP_SimpleButton.BP_SimpleButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXTools/Buttons/Simple/BP_SimpleButton.BP_SimpleButton_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_SimpleButton__pf1474752154.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_SimpleButton__pf1474752154.cpp"
+		},
+		"/UXToolsExamples/BoundsControl/Blueprints/BP_Slate2D.BP_Slate2D_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/BoundsControl/Blueprints/BP_Slate2D.BP_Slate2D_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_Slate2D__pf2124240069.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_Slate2D__pf2124240069.cpp"
+		},
+		"/UXToolsExamples/BoundsControl/Blueprints/BP_DescriptionText.BP_DescriptionText_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/BoundsControl/Blueprints/BP_DescriptionText.BP_DescriptionText_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_DescriptionText__pf2124240069.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_DescriptionText__pf2124240069.cpp"
+		},
+		"/UXToolsExamples/BoundsControl/Blueprints/BP_CoffeeCup.BP_CoffeeCup_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/BoundsControl/Blueprints/BP_CoffeeCup.BP_CoffeeCup_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_CoffeeCup__pf2124240069.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_CoffeeCup__pf2124240069.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_WheelsTooltip.W_WheelsTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_WheelsTooltip.W_WheelsTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_WheelsTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_WheelsTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_SpectrometerTooltip.W_SpectrometerTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_SpectrometerTooltip.W_SpectrometerTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_SpectrometerTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_SpectrometerTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_SpawnedTooltip.W_SpawnedTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_SpawnedTooltip.W_SpawnedTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_SpawnedTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_SpawnedTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_RUHFAntennaTooltip.W_RUHFAntennaTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_RUHFAntennaTooltip.W_RUHFAntennaTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_RUHFAntennaTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_RUHFAntennaTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_HighGainAntennaTooltip.W_HighGainAntennaTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_HighGainAntennaTooltip.W_HighGainAntennaTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_HighGainAntennaTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_HighGainAntennaTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Tooltip/Widgets/W_CameraTooltip.W_CameraTooltip_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/UXToolsExamples/Tooltip/Widgets/W_CameraTooltip.W_CameraTooltip_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/W_CameraTooltip__pf1366576559.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/W_CameraTooltip__pf1366576559.cpp"
+		},
+		"/UXToolsExamples/Loader/Blueprints/BP_LogoButton.BP_LogoButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/UXToolsExamples/Loader/Blueprints/BP_LogoButton.BP_LogoButton_C",
+			"generatedHeaderPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Public/BP_LogoButton__pf1183508669.h",
+			"generatedCppPath": "G:/Spring2023/Theia_system/GaPe/Intermediate/Plugins/NativizedAssets/HoloLens/Game/Source/NativizedAssets/Private/BP_LogoButton__pf1183508669.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "HoloLens",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

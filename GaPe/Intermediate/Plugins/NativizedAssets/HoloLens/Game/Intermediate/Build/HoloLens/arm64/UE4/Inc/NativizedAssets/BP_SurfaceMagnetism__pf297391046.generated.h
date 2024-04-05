@@ -1,0 +1,147 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UUxtSurfaceMagnetismComponent;
+#ifdef NATIVIZEDASSETS_BP_SurfaceMagnetism__pf297391046_generated_h
+#error "BP_SurfaceMagnetism__pf297391046.generated.h already included, missing '#pragma once' in BP_SurfaceMagnetism__pf297391046.h"
+#endif
+#define NATIVIZEDASSETS_BP_SurfaceMagnetism__pf297391046_generated_h
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_18_DELEGATE \
+struct BP_SurfaceMagnetism_C__pf297391046_event__UxtOnMagnetismEnded__DelegateSignature__SC_1_Parms \
+{ \
+	UUxtSurfaceMagnetismComponent* bpp__SurfaceMagnetism__pf; \
+}; \
+static inline void F__UxtOnMagnetismEnded__DelegateSignature__SC_1_DelegateWrapper(const FScriptDelegate& __UxtOnMagnetismEnded__DelegateSignature__SC_1, UUxtSurfaceMagnetismComponent* bpp__SurfaceMagnetism__pf) \
+{ \
+	BP_SurfaceMagnetism_C__pf297391046_event__UxtOnMagnetismEnded__DelegateSignature__SC_1_Parms Parms; \
+	Parms.bpp__SurfaceMagnetism__pf=bpp__SurfaceMagnetism__pf; \
+	__UxtOnMagnetismEnded__DelegateSignature__SC_1.ProcessDelegate<UObject>(&Parms); \
+}
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_16_DELEGATE \
+struct BP_SurfaceMagnetism_C__pf297391046_event__UxtOnMagnetismStarted__DelegateSignature__SC_0_Parms \
+{ \
+	UUxtSurfaceMagnetismComponent* bpp__SurfaceMagnetism__pf; \
+}; \
+static inline void F__UxtOnMagnetismStarted__DelegateSignature__SC_0_DelegateWrapper(const FScriptDelegate& __UxtOnMagnetismStarted__DelegateSignature__SC_0, UUxtSurfaceMagnetismComponent* bpp__SurfaceMagnetism__pf) \
+{ \
+	BP_SurfaceMagnetism_C__pf297391046_event__UxtOnMagnetismStarted__DelegateSignature__SC_0_Parms Parms; \
+	Parms.bpp__SurfaceMagnetism__pf=bpp__SurfaceMagnetism__pf; \
+	__UxtOnMagnetismStarted__DelegateSignature__SC_0.ProcessDelegate<UObject>(&Parms); \
+}
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_SPARSE_DATA
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__UserConstructionScript__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__SurfaceMagnetismStarted__pf); \
+	DECLARE_FUNCTION(execbpf__SurfaceMagnetismEnded__pf);
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__UserConstructionScript__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__SurfaceMagnetismStarted__pf); \
+	DECLARE_FUNCTION(execbpf__SurfaceMagnetismEnded__pf);
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_EVENT_PARMS
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+ \
+	void eventbpf__UserConstructionScript__pf(); \
+
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesABP_SurfaceMagnetism_C__pf297391046(); \
+	friend struct Z_Construct_UClass_ABP_SurfaceMagnetism_C__pf297391046_Statics; \
+public: \
+	DECLARE_CLASS(ABP_SurfaceMagnetism_C__pf297391046, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/UXToolsExamples/SurfaceMagnetism/Blueprints/BP_SurfaceMagnetism"), NO_API) \
+	DECLARE_SERIALIZER(ABP_SurfaceMagnetism_C__pf297391046)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_INCLASS \
+private: \
+	static void StaticRegisterNativesABP_SurfaceMagnetism_C__pf297391046(); \
+	friend struct Z_Construct_UClass_ABP_SurfaceMagnetism_C__pf297391046_Statics; \
+public: \
+	DECLARE_CLASS(ABP_SurfaceMagnetism_C__pf297391046, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/UXToolsExamples/SurfaceMagnetism/Blueprints/BP_SurfaceMagnetism"), NO_API) \
+	DECLARE_SERIALIZER(ABP_SurfaceMagnetism_C__pf297391046)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ABP_SurfaceMagnetism_C__pf297391046(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_SurfaceMagnetism_C__pf297391046) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_SurfaceMagnetism_C__pf297391046); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_SurfaceMagnetism_C__pf297391046); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_SurfaceMagnetism_C__pf297391046(ABP_SurfaceMagnetism_C__pf297391046&&); \
+	NO_API ABP_SurfaceMagnetism_C__pf297391046(const ABP_SurfaceMagnetism_C__pf297391046&); \
+public:
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_SurfaceMagnetism_C__pf297391046(ABP_SurfaceMagnetism_C__pf297391046&&); \
+	NO_API ABP_SurfaceMagnetism_C__pf297391046(const ABP_SurfaceMagnetism_C__pf297391046&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_SurfaceMagnetism_C__pf297391046); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_SurfaceMagnetism_C__pf297391046); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_SurfaceMagnetism_C__pf297391046)
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_PRIVATE_PROPERTY_OFFSET
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_10_PROLOG \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_EVENT_PARMS
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_PRIVATE_PROPERTY_OFFSET \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_SPARSE_DATA \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_RPC_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_CALLBACK_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_INCLASS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_PRIVATE_PROPERTY_OFFSET \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_SPARSE_DATA \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_CALLBACK_WRAPPERS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_INCLASS_NO_PURE_DECLS \
+	GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h_14_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class ABP_SurfaceMagnetism_C__pf297391046>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID GaPe_Intermediate_Plugins_NativizedAssets_HoloLens_Game_Source_NativizedAssets_Public_BP_SurfaceMagnetism__pf297391046_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "Microsoft.MixedReality.EyeTracking"
+    </assembly>
+    <members>
+        <member name="T:wil.err_returncode_policy">
+@endcond
+</member>
+        <member name="M:wil.DLLMain(HINSTANCE__*,System.UInt32!System.Runtime.CompilerServices.IsLong,System.Void*)">
+Forward your DLLMain to this function so that WIL can have visibility into whether a DLL unload is because
+    of termination or normal unload.  Note that when g_pfnDllShutdownInProgress is set, WIL attempts to make this
+    determination on its own without this callback.  Suppressing private APIs requires use of this. 
+</member>
+        <member name="M:wil.ProcessShutdownInProgress">
+@endcond
+</member>
+        <member name="M:wil.WilInitialize_ResultMacros_DesktopOrSystem_SuppressPrivateApiUse">
+@endcond
+</member>
+        <member name="T:wil.details.shared_buffer">
+@cond
+</member>
+        <member name="M:wil.GetFailureLogString(System.Char*,System.UInt64,wil.FailureInfo!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+@endcond
+</member>
+        <member name="T:wil.SupportedExceptions">
+Use with functions and macros that allow customizing which kinds of exceptions are handled.
+    This is used with methods like wil::ResultFromException and wil::ResultFromExceptionDebug. 
+</member>
+        <member name="D:size_t">
+@endcond
+</member>
+        <member name="D:NTSTATUS">
+@cond
+</member>
+        <member name="T:wil.variadic_logical_or{}">
+@cond
+</member>
+    </members>
+</doc>

@@ -1,0 +1,151 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client).
+  Creating makefile for PointCloudEditor (config setting changed)
+  Parsing headers for PointCloudEditor
+    Running UnrealHeaderTool "H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\GaPe.uproject" "H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\PointCloudEditor\Development\PointCloudEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\wunan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for PointCloudEditor in 72.3291407 seconds
+  Building PointCloudEditor...
+  Using Visual Studio 2019 14.33.31629 toolchain (D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 42 actions with 12 processes...
+    [1/42] Default.rc2
+    [2/42] Default.rc2
+    [3/42] Default.rc2
+    [4/42] Default.rc2
+    [5/42] SharedPCH.Core.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [6/42] UXToolsExamplesShaders.cpp
+    [7/42] UE4Editor-UXToolsExamplesShaders.lib
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UE4Editor-UXToolsExamplesShaders.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UE4Editor-UXToolsExamplesShaders.exp
+    [8/42] UE4Editor-UXToolsExamplesShaders.dll
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UE4Editor-UXToolsExamplesShaders.suppressed.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamplesShaders\UE4Editor-UXToolsExamplesShaders.suppressed.exp
+    [9/42] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [10/42] Vec3.cpp
+    [11/42] PointCloud.init.gen.cpp
+    [12/42] Module.UXToolsExamples.cpp
+    [13/42] Module.UXToolsExamples.gen.cpp
+    [14/42] Capture.gen.cpp
+    [15/42] hmp.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [16/42] FrustumG.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [17/42] PointCloud.cpp
+    [18/42] EyeActor.gen.cpp
+    [19/42] logger.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\settings.h(5): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+    [20/42] loggerActor.gen.cpp
+    [21/42] AABox.cpp
+    [22/42] frame_buffer.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+    [23/42] config.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [24/42] Capture.cpp
+    [25/42] UE4Editor-UXToolsExamples.lib
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples.exp
+    [26/42] Plane.cpp
+    [27/42] NWDraco.cpp
+    [28/42] UE4Editor-NWDraco.lib
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco.exp
+    [29/42] loggerActor.cpp
+    [30/42] UE4Editor-NWDraco.dll
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco.suppressed.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\NWDraco\Intermediate\Build\Win64\UE4Editor\Development\NWDraco\UE4Editor-NWDraco.suppressed.exp
+    [31/42] UE4Editor-UXToolsExamples.dll
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples.suppressed.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Plugins\UXToolsExamples\Intermediate\Build\Win64\UE4Editor\Development\UXToolsExamples\UE4Editor-UXToolsExamples.suppressed.exp
+    [32/42] videodata.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\settings.h(5): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(291): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(392): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(405): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(408): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(415): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(418): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(421): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(492): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(656): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(664): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(677): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(680): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(691): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(694): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(697): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(736): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(777): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\videodata.cpp(1160): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [33/42] EyeActor.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [34/42] nativelib.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.h(36): warning C4005: 'PI': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h(48): note: see previous definition of 'PI'
+    [35/42] video_scheduler.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\video_scheduler.h(2): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.h(36): warning C4005: 'PI': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h(48): note: see previous definition of 'PI'
+    [36/42] PointCloudRenderer.gen.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud/PointCloudRenderer.h(36): warning C4005: 'PI': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h(48): note: see previous definition of 'PI'
+    [37/42] VideoCommunication.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.h(36): warning C4005: 'PI': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h(48): note: see previous definition of 'PI'
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: see previous definition of 'TEXT'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.cpp(704): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.cpp(1949): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.cpp(2052): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.cpp(2115): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [38/42] PointCloudRenderer.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\VideoCommunication.h(4): warning C4005: '_HAS_STD_BYTE': macro redefinition
+    D:\VisualStudio2022\VC\Tools\MSVC\14.33.31629\INCLUDE\yvals_core.h(702): note: see previous definition of '_HAS_STD_BYTE'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.h(36): warning C4005: 'PI': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h(48): note: see previous definition of 'PI'
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: see previous definition of 'TEXT'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.cpp(71): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.cpp(74): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.cpp(184): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\PointCloudRenderer.cpp(153): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+    [39/42] tools.cpp
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.h(30): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h(603): warning C4005: 'TEXT': macro redefinition
+    D:\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h(1082): note: see previous definition of 'TEXT'
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(108): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(143): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(153): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(156): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(233): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(236): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(244): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(248): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(374): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Source\PointCloud\tools.cpp(373): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    [40/42] UE4Editor-PointCloud.lib
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud.exp
+    [41/42] UE4Editor-PointCloud.dll
+       Creating library H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud.suppressed.lib and object H:\Spring2023\Theia_system_Mobisys_auto\Theia_MobiSys2024_Client\GaPe\Intermediate\Build\Win64\UE4Editor\Development\PointCloud\UE4Editor-PointCloud.suppressed.exp
+    [42/42] PointCloudEditor.target
+  Total time in Parallel executor: 413.95 seconds
+  Total execution time: 517.87 seconds

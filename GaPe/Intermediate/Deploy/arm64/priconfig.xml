@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources targetOsVersion="10.0.0" majorVersion="1" isDeploymentMergeable="true">
+  <index root="\" startIndexAt="\">
+    <default>
+      <qualifier name="Language" value="en" />
+      <qualifier name="Contrast" value="standard" />
+      <qualifier name="Scale" value="100" />
+      <qualifier name="HomeRegion" value="001" />
+      <qualifier name="TargetSize" value="256" />
+      <qualifier name="LayoutDirection" value="LTR" />
+      <qualifier name="Theme" value="dark" />
+      <qualifier name="AlternateForm" value="" />
+      <qualifier name="DXFeatureLevel" value="DX9" />
+      <qualifier name="Configuration" value="" />
+      <qualifier name="DeviceFamily" value="Universal" />
+      <qualifier name="Custom" value="" />
+    </default>
+    <indexer-config type="folder" foldernameAsQualifier="true" filenameAsQualifier="true" qualifierDelimiter=".">
+      <exclude type="path" value="AppxManifest_arm64.xml" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="tree" value="arm64" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloud-HoloLens-Developmentarm64.target" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloud-HoloLens-ShippingMulti.target" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloudarm64.exe" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloudarm64.exp" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloudarm64.lib" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="PointCloudarm64.pdb" doNotTraverse="true" doNotIndex="true" />
+      <exclude type="path" value="resources_arm64.pri" doNotTraverse="true" doNotIndex="true" />
+    </indexer-config>
+    <indexer-config type="resw" convertDotsToSlashes="true" initialPath="" />
+    <indexer-config type="resjson" initialPath="" />
+    <indexer-config type="PRI" />
+  </index>
+  <!--<index startIndexAt="Start Index Here" root="Root Here">-->
+  <!--        <indexer-config type="resfiles" qualifierDelimiter="."/>-->
+  <!--        <indexer-config type="priinfo" emitStrings="true" emitPaths="true" emitEmbeddedData="true"/>-->
+  <!--</index>-->
+</resources>

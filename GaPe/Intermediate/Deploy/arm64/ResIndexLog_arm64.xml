@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<instance itemname="resources\resmimetype" qualifiers="Language-en" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\en\resources.resw" type="String">
+		<value>text/microsoft-resx</value>
+	</instance>
+	<instance itemname="resources\version" qualifiers="Language-en" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\en\resources.resw" type="String">
+		<value>2.0</value>
+	</instance>
+	<instance itemname="resources\reader" qualifiers="Language-en" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\en\resources.resw" type="String">
+		<value>Tools.DotNETCommon.UEResXReader, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+	</instance>
+	<instance itemname="resources\writer" qualifiers="Language-en" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\en\resources.resw" type="String">
+		<value>Tools.DotNETCommon.UEResXWriter, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+	</instance>
+	<instance itemname="Files\Logo.png" qualifiers="" src="" type="Path">
+		<value>Logo.png</value>
+	</instance>
+	<instance itemname="resources\resmimetype" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>text/microsoft-resx</value>
+	</instance>
+	<instance itemname="resources\version" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>2.0</value>
+	</instance>
+	<instance itemname="resources\reader" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>Tools.DotNETCommon.UEResXReader, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+	</instance>
+	<instance itemname="resources\writer" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>Tools.DotNETCommon.UEResXWriter, DotNETUtilities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+	</instance>
+	<instance itemname="resources\PackageDisplayName" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>TheiaLootAuto</value>
+	</instance>
+	<instance itemname="resources\PublisherDisplayName" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>Nan</value>
+	</instance>
+	<instance itemname="resources\PackageDescription" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>TheiaLootAuto</value>
+	</instance>
+	<instance itemname="resources\AppDisplayName" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>TheiaLootAuto</value>
+	</instance>
+	<instance itemname="resources\AppDescription" qualifiers="" src="G:\Spring2023\Theia_system\GaPe\Intermediate\Deploy\arm64\Resources\resources.resw" type="String">
+		<value>TheiaLootAuto</value>
+	</instance>
+	<instance itemname="Files\SmallLogo.png" qualifiers="" src="" type="Path">
+		<value>SmallLogo.png</value>
+	</instance>
+	<instance itemname="Files\SplashScreen.png" qualifiers="" src="" type="Path">
+		<value>SplashScreen.png</value>
+	</instance>
+	<instance itemname="Files\StoreLogo.png" qualifiers="" src="" type="Path">
+		<value>StoreLogo.png</value>
+	</instance>
+	<instance itemname="Files\WideLogo.png" qualifiers="" src="" type="Path">
+		<value>WideLogo.png</value>
+	</instance>
+</root>

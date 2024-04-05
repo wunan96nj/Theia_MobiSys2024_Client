@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.MixedReality.EyeTracking.DotNet</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading">
+            <summary>
+            Snapshot of Gaze Tracker state
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.Timestamp">
+            <summary>
+            Timestamp of state
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.SystemRelativeTime">
+            <summary>
+            Timestamp of state as system relative time
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.IsCalibrationValid">
+            <summary>
+            Indicates of user calibration is valid
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetCombinedEyeGazeInTrackerSpace(System.Numerics.Vector3@,System.Numerics.Vector3@)">
+            <summary>
+            Tries to get a vector representing the combined gaze related to the tracker's node position
+            </summary>
+            <param name="origin">Origin of the gaze vector</param>
+            <param name="direction">Direction of the gaze vector</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetLeftEyeGazeInTrackerSpace(System.Numerics.Vector3@,System.Numerics.Vector3@)">
+            <summary>
+            Tries to get a vector representing the left eye gaze related to the tracker's node position
+            </summary>
+            <param name="origin">Origin of the gaze vector</param>
+            <param name="direction">Direction of the gaze vector</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetRightEyeGazeInTrackerSpace(System.Numerics.Vector3@,System.Numerics.Vector3@)">
+            <summary>
+            Tries to get a vector representing the right eye gaze related to the tracker's node position
+            </summary>
+            <param name="origin">Origin of the gaze vector</param>
+            <param name="direction">Direction of the gaze vector</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetVergenceDistance(System.Single@)">
+            <summary>
+            Tries to read vergence distance
+            </summary>
+            <param name="value">Vergence distance if available</param>
+            <returns>bool if value is valid</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetLeftEyeOpenness(System.Single@)">
+            <summary>
+            Tries to get left Eye openness information
+            </summary>
+            <param name="value">Eye Openness if valid</param>
+            <returns>bool if value is valid</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading.TryGetRightEyeOpenness(System.Single@)">
+            <summary>
+            Tries to get right Eye openness information
+            </summary>
+            <param name="value">Eye Openness if valid</param>
+            <returns>bool if value is valid</returns>
+        </member>
+        <member name="T:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues">
+            <summary>
+            Enables access to values provided by a given driver but not yet "promoted" as strongly typed properties of reading
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.IsSupported(Microsoft.MixedReality.EyeTracking.EyeGazeTracker,System.Guid)">
+            <summary>
+            Check if a value is supported by a tracker
+            </summary>
+            <param name="tracker">tracker</param>
+            <param name="valueKey">key</param>
+            <returns>True if key is supported</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.SendCommand(Microsoft.MixedReality.EyeTracking.EyeGazeTracker,System.Guid,System.Byte[],System.Byte[])">
+            <summary>
+            Sends a command to the tracker
+            </summary>
+            <param name="tracker">tracker</param>
+            <param name="command">id of the command</param>
+            <param name="inBuffer">input buffer</param>
+            <param name="outBuffer">output buffer</param>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.TryGetFloat(Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading,System.Guid,System.Single@)">
+            <summary>
+            Try to read a float value from a reading
+            </summary>
+            <param name="reading">reading</param>
+            <param name="valueKey">value key</param>
+            <param name="value">value from the reading if available</param>
+            <returns>True if value is available</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.TryGetBool(Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading,System.Guid,System.Boolean@)">
+            <summary>
+            Try to read a boolean value from a reading
+            </summary>
+            <param name="reading">reading</param>
+            <param name="valueKey">value key</param>
+            <param name="value">value from the reading if available</param>
+            <returns>True if value is available</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.TryGetInt(Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading,System.Guid,System.Int32@)">
+            <summary>
+            Try to read a int value from a reading
+            </summary>
+            <param name="reading">reading</param>
+            <param name="valueKey">value key</param>
+            <param name="value">value from the reading if available</param>
+            <returns>True if value is available</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerRawValues.TryGetVector3(Microsoft.MixedReality.EyeTracking.EyeGazeTrackerReading,System.Guid,System.Numerics.Vector3@)">
+            <summary>
+            Try to read a vector3 value from a reading
+            </summary>
+            <param name="reading">reading</param>
+            <param name="valueKey">value key</param>
+            <param name="value">value from the reading if available</param>
+            <returns>True if value is available</returns>
+        </member>
+        <member name="T:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerFrameRate">
+            <summary>
+            Represents a Frame Rate supported by an Eye Tracker
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerFrameRate.FramesPerSecond">
+            <summary>
+            NodeId of the Tracker allowing to retrieve a SpatialLocator using SpatialGraphInteropPreview.CreateLocatorForNode
+            </summary>
+        </member>
+        <member name="T:Microsoft.MixedReality.EyeTracking.EyeGazeTracker">
+            <summary>
+            Represents an Eye Tracker device
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.IsRestrictedModeSupported">
+            <summary>
+            True if Restricted mode is supported
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.OpenAsync(System.Boolean)">
+            <summary>
+            Opens the tracker
+            </summary>
+            <param name="restrictedMode">True if restricted mode active</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.Close">
+            <summary>
+            Closes the tracker
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.TrackerSpaceLocatorNodeId">
+            <summary>
+            NodeId of the Tracker allowing to retrieve a SpatialLocator using SpatialGraphInteropPreview.CreateLocatorForNode
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.IsVergenceDistanceSupported">
+            <summary>
+            True if Vergence Distance is supported by tracker
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.IsEyeOpennessSupported">
+            <summary>
+            True if Eye Openness is supported by the driver
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.AreLeftAndRightGazesSupported">
+            <summary>
+            True if individual gazes are supported
+            </summary>
+        </member>
+        <member name="P:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.SupportedTargetFrameRates">
+            <summary>
+            Get the supported target framerates of the tracker
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.SetTargetFrameRate(Microsoft.MixedReality.EyeTracking.EyeGazeTrackerFrameRate)">
+            <summary>
+            Changes the target framerate of the tracker
+            </summary>
+            <param name="newFrameRate">Target frame rate</param>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.TryGetReadingAtTimestamp(System.DateTime)">
+            <summary>
+            Try to get tracker state at a given timestamp
+            </summary>
+            <param name="timestamp">timestamp</param>
+            <returns>State if available, null otherwhise</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.TryGetReadingAtSystemRelativeTime(System.TimeSpan)">
+            <summary>
+            Try to get tracker state at a system relative time
+            </summary>
+            <param name="time">time</param>
+            <returns>State if available, null otherwhise</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.TryGetReadingAfterTimestamp(System.DateTime)">
+            <summary>
+            Try to get first first tracker state after a given timestamp
+            </summary>
+            <param name="timestamp">timestamp</param>
+            <returns>State if available, null otherwhise</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTracker.TryGetReadingAfterSystemRelativeTime(System.TimeSpan)">
+            <summary>
+            Try to get the first tracker state after a system relative time
+            </summary>
+            <param name="time">time</param>
+            <returns>State if available, null otherwhise</returns>
+        </member>
+        <member name="T:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher">
+            <summary>
+            Allow discovery of Eye Gaze Trackers connected to the system
+            </summary>
+        </member>
+        <member name="E:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher.EyeGazeTrackerAdded">
+            <summary>
+            Raised when an Eye Gaze tracker is connected
+            </summary>
+        </member>
+        <member name="E:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher.EyeGazeTrackerRemoved">
+            <summary>
+            Raised when an Eye Gaze tracker is disconnected
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher.#ctor">
+            <summary>
+            Constructs an instance of the watcher
+            </summary>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher.StartAsync">
+            <summary>
+            Starts trackers enumeration.
+            </summary>
+            <returns>Task representing async action; completes when the initial enumeration is completed</returns>
+        </member>
+        <member name="M:Microsoft.MixedReality.EyeTracking.EyeGazeTrackerWatcher.Stop">
+            <summary>
+            Stop listening to trackers additions and removal
+            </summary>
+        </member>
+    </members>
+</doc>
