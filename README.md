@@ -4,6 +4,9 @@ The client-side component runs on Unreal Engine 4.26. The client device is the M
 
 We use the following plugins in the Unreal Engine:
 
+1) Mixed Reality Toolkit Hub
+2) Mixed Reality UX Tools
+3) Mixed Reality UX Tools Examples
 
 
 Instructions:
